@@ -1,0 +1,1419 @@
+         █████████                                                 █████                              
+        ███░░░░░███                                               ░░███                               
+       ███     ░░░   ██████  █████████████   ████████  █████ ████ ███████    ██████  ████████         
+      ░███          ███░░███░░███░░███░░███ ░░███░░███░░███ ░███ ░░░███░    ███░░███░░███░░███        
+      ░███         ░███ ░███ ░███ ░███ ░███  ░███ ░███ ░███ ░███   ░███    ░███████  ░███ ░░░         
+      ░░███     ███░███ ░███ ░███ ░███ ░███  ░███ ░███ ░███ ░███   ░███ ███░███░░░   ░███             
+       ░░█████████ ░░██████  █████░███ █████ ░███████  ░░████████  ░░█████ ░░██████  █████            
+        ░░░░░░░░░   ░░░░░░  ░░░░░ ░░░ ░░░░░  ░███░░░    ░░░░░░░░    ░░░░░   ░░░░░░  ░░░░░             
+                                             ░███                                                     
+                                             █████                                                    
+                                            ░░░░░                                                     
+                    █████████            ███                                                          
+                   ███░░░░░███          ░░░                                                           
+                  ░███    ░░░   ██████  ████   ██████  ████████    ██████   ██████                    
+                  ░░█████████  ███░░███░░███  ███░░███░░███░░███  ███░░███ ███░░███                   
+                   ░░░░░░░░███░███ ░░░  ░███ ░███████  ░███ ░███ ░███ ░░░ ░███████                    
+                   ███    ░███░███  ███ ░███ ░███░░░   ░███ ░███ ░███  ███░███░░░                     
+                  ░░█████████ ░░██████  █████░░██████  ████ █████░░██████ ░░██████                    
+                   ░░░░░░░░░   ░░░░░░  ░░░░░  ░░░░░░  ░░░░ ░░░░░  ░░░░░░   ░░░░░░                     
+                                                                                                      
+                                                                                                      
+                                                                                                      
+  █████████                                           █████████   █████                               
+ ███░░░░░███                                         ███░░░░░███ ░░███                                
+░███    ░░░  █████ ████ ████████   ██████  ████████ ░███    ░░░  ███████    ██████   ████████   █████ 
+░░█████████ ░░███ ░███ ░░███░░███ ███░░███░░███░░███░░█████████ ░░░███░    ░░░░░███ ░░███░░███ ███░░  
+ ░░░░░░░░███ ░███ ░███  ░███ ░███░███████  ░███ ░░░  ░░░░░░░░███  ░███      ███████  ░███ ░░░ ░░█████ 
+ ███    ░███ ░███ ░███  ░███ ░███░███░░░   ░███      ███    ░███  ░███ ███ ███░░███  ░███      ░░░░███
+░░█████████  ░░████████ ░███████ ░░██████  █████    ░░█████████   ░░█████ ░░████████ █████     ██████ 
+ ░░░░░░░░░    ░░░░░░░░  ░███░░░   ░░░░░░  ░░░░░      ░░░░░░░░░     ░░░░░   ░░░░░░░░ ░░░░░     ░░░░░░  
+                        ░███                                                                          
+                        █████                                                                         
+                       ░░░░░                                                                          
+ENDOFPROMPT
+Continue to game >1
+ENDOFPAGE
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=~~~~==~~====~=========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=~~~~~~~~~==~~~=~~~~~~~~~~~==~~=~~==================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~=~~~===~=~~=:==~7+=~===~=~~~===~===~~~~============================++====+
+~~~~:~~~~~=~.~=~~~~~~~===~~=~=~==~~:~+=~+~I~~=~~=:=:~~+===+~~~~~==~~~=================~~==========++
+I$Z$ZZ$ZZZZ$7II77?7I77I$7I$$O7Z$IZ$?+77?I$$I$?$Z$77$I7Z7?7I$$$?$Z7Z$7OZ7+I$+7ZO77$ZIZIZIZ+O?7I$Z8887
+$Z7ZZO$OOOOZZZ$Z$ZZ$ZZ7$Z$7$77Z+$I?+?7II$I7??+I7II7?7I77?II77?I777?$7I7I77?$IIII777NDND8O$Z88$DDDOND
+7+?I??+I++????I?I+???==?II=+?:I+??I~=I??+=~+?+=+++=+??=++~++=?~+++~+?=~====~===~O8IDN8DMN8NDNNNNNNNM
+I7=+?+~~=+=?++~II==I+7=~?I~~?=~I=?~=+?++~?:?:?=?=++~=~=+?+?~+~I=+??+=++~?~+~8Z7IONMDMMNMDMNDDNMMNMMM
+O?=7$$I7$7~?+?~777=??7$??++I+??=++++?~~?=?7OI+O7I?+~~++~?==?+=~===?+==$?I?7++NONMMMNNMM8NMD8DNMMMMMN
+D?OD8Z?ZII=+=++7??+???$??~+==+=~===+++=II+++=+=?=7?Z$~~==~?=+=+I=+??==7~$IIOZZMNNNN8MMDNMNOMNNODMMNM
+NZDZIZ+$I?=?=?=Z??+=?I7+=?~?~=+??I7=+~=~::==~??=~~???+=+7I==++?+=~+?++Z+$Z7NMNNDMDMMMNNMMDDNMMMMMMMM
+DO$OO8O~::?+++=:.,==..,++=?II$??I++=+?+++++=+???=+~?~Z??7?~==Z7+~=+?++??$8DMMMMNMMNDMMDDNNMDM8NNMMMM
+$N8O8DI?+~++~++?=~?=~+~+?=NI+~=7+++~=?+?=++?=,Z==~=??+==:78::?=8=~+~=+~?78D8MMMMNM8MDMMMMMMNMNNDMMMM
+88NDMN88+?==+=+?+===~+~~~++++++==+~=+~~+~~+O,.$:++~=+~?+===~==~+=+??=??88MDDMNMMMMNNMMMDNNMMMDMND8ON
+DDNDNM8I+??++++=~~=??+==++$+I=+~==+=~++~+??O,.7:~~+++?+?=+?++++?~++~+===MMMMMMMMNMMMMNMMM8MM88DNDDMN
+NNNDOOI8$?7?=++===~==++I:Z7===?~=~+~~?~~=:?.,..,+~=?++=+?I~==?+=+I++==:DDDNMMN88NNODMNNDM8MMMNMND8ND
+ZOMNN88O8$Z$$=~$II~+I?+=+Z$==?,::::,::+~~~,:,::,::?+?++++++=?+??+==+$$ZIMMDMMNMMNNNDNNMMDDDNNN8NDDMN
+NNMNMMN8D8$8O??$$7++ZZI=+O7+I=?I~?=I+=?==+~===++==+=++?==~?+++?=+=?=ZOO?+MMNNMMMMMMD8MMDNNNMMDDMNMN8
+MMM8O8O8Z8D8O+$8?I?+???+?8?+==+,.:~,:?~++?:.:=.,:=~++~,~?:.==++??+?+7ZOII8DNDMMMMMMMNDMNMMDM8N88NNN8
+N8ONMDDDDD8NDDD8ZI+?????+ZI++:.,MNMM:.,+,..NNMN?.+?+,.NNMMN=,+?+I?$?$OOZ$88MNMMMNMMNDMD$N8DMDNNNDNOD
+MN8NNDMDDNDDMMZD$I++?+???8I++.,MMMMMM:,:..MMMMMMZ,I:.NMMMMMM::??$$ZZOOZZZOOMMNMMNMNMMON8DND8NMDMDDND
+NMNNMMMD8DDDO88OOZ=+?=??=8.::..NMNNNN..,,,NNNNNN,.:~,NNMNMMZ.,~:8ZODZOZOO88DOMO88DMMMZMNMMMMMMMNMNNN
+MNNDNDN8NDDZ88DOI?=~I?+?=OI...Z8DNDDD8...:D88NNND....8DNDNNN:~,?8DZZO8ZOZO88DNO8MMMMMN8MDMNMMDNNDMMM
+NNN8NNMNDMN88MMDD$I+?~?++O=...+??7O8N$,.,,?DMMMN8.,,,?ID8DDD=~,=DZ88MMMOOMM8OD8O8M8DDD8MNNDDNM7MNNMN
+8MMNMMNMMNNNNNMND8?=$$++=$~.,.+==~MDO$..,,$DMDMM8.,..I,D8O8D~=:?88O8MNDZZNNO8DD88MMMNMDMM8DNDNNNDDMM
+DDNNMNMMMN8NNZZDO8I+$$+?+O:.,.=??,NM87,..,Z$$ZNN8.,..+.DM88D~=:~88OOMNMOOMMD8OD88MMMMMMMDDDDMN8D8DN8
+NNNNNMMMM8OD887878+?OO+?+O:,..=?+.DM87..:,Z8MZMM8...,+.DMOO8~~,,DDO8NMM88MMDODDDDMMMMMNDM8MDNMM8MMND
+ND8D88DDNDD8ODZ7=??+?+?=?O:,,.=I~II~OZ+.,,$$$ZNN8.=.:7++O888~=,,8OO8DO888O8D8DDDMNNDNNN8N8DNNDNMM8MN
+MNM8NMMMMMMDMMMMDDII77I88ODODDOOOO88D$O888ND8D88DDOZDDODN8NNODNOD887DODNNMMMMD8NMNNNMMMMM88NDDMMNMMM
+DMMMNMMMMMMMMMMMZN77$I=N8D88MZ8ON$8OND8NZO8O8DMOMDONDNNMN888$DMO8Z8???7NMMMMMMDMNNMMMMMMMMMMMDNNMMNM
+N88MMMNMDZMNDZZII?I+II?NMM8O777$7777$$7$77$7$7$7$$$Z$77$$$$$$ZZO8ZOIII?77IIIZOZ$$$$Z$Z$$$ZDMN8MNDNNO
+N8DDNNM8Z$ZZ$7$Z$$$$$$$$$$$$$$$$Z$$$$$$$$$$$$$$$Z$$$$$$Z$Z$$$$$$$$ZZZZZOD88888888Z$$$NMDD8ZO$$DOOZZ$
+DNNNDDNDDZ8Z$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZ$$$$$$$Z$$$$$ZZZ$ZZZO8DDNDDNNNDDDNNN888DDIDD88
+MDD8Z$ZZZ$$Z$$$$$$$$$$7$77$$7$$$$$$77$$$$$$$$$$$$$$$$Z$$$$$$$$Z$$$ZZZZ$ZZZZZZOOOOZOOOZOZZ8ZZ8OOOZOOZ
+$$$$Z$$Z$$ZZZ$$$$$$$77$$$$$$$$$$$$$$7$$$7$$$$$$77$$$7$$$$$$$$$$7$$$$$$$$$$$ZZZZZ$ZZZZZZZZOZOZOZZ$ZZO
+$$$$$$$$Z$$$$$$$77$$$$7$$$7$$7$$$$$$$$$$$7$$$$$$$$Z$$$Z$ZZ$Z$ZZ$$$ZZZ$Z$Z$$ZZOZZ$$ZZZZZZZZ$Z$$$$ZZZZ
+$$$$$$$77$$$$$$$$$77$7$$$777$7$$$$$$$$$$$$$$77$$$Z$$77$$$Z$$ZZ$ZZ$$$$$$ZZZZZZ$ZZZ$$ZZZ$ZZZZZZZOZZZZZ
+77$7$$$$$Z$$$$$$7$7$$$$$$ZZZ$Z$$Z$$ZZZZZZ$OZZZ$$$$$$$$$$$ZZO$ZZZZZZOOZ$ZZ$$$ZZ$$ZZZZOOOOZO88888888D8
+7$$$$777$Z$$$$$Z$$$$$$ZZ$777$7$7$7$$$$$$$7$$$77$$$$$$$$Z$$$$$$$$Z$ZZ$$Z$ZZOZZZ$ZZOZZOOZZOO888D888888
+$$$$$$$$Z$Z$$77$$$$$$77$ZZ$$$ZZ$Z$7$$$$$$7$$$$$$$Z$$Z$$7$$$ZZ$ZZZZZ$Z$$7OZOOZOZZOOZO8DD8DDDDDDDDNDDD
+OO8Z8O8O88O888O88DO8DDD888OO8D8$888888ZD8DDO8OOO8OZ8O88O8OD8O88$Z7ZZZOZ$OD7I7O7OZI7777I77ZZ$$$$$7$$7
+I7IOZ$ZZZODNNNNND8MMMMMMMMMM?7$$$ONNNN7??~=ONNNNDNMMNMMMMMMMMMMMMMMMMMMMMDMMN=+7???II??+7I+III7$77II
+-
+You arrive at the college, what will you do?
+ENDOFPROMPT
+Go to Programming Team >2
+Go to Class >7
+Go to Office >11
+ENDOFPAGE
+                                 
+                                                 ....=$ZI,..                                        
+                                                88OOOOOOOOOO8O,.                                    
+                                              OOOOOOOOOOOOOOOOO8+.                                  
+                                            $88OOOOOOOOOOOOOOOOOO8                                  
+                                     . ..  +OOOOOOOOOOOOOOOOOOOOOO8                                 
+                                    .Z8O8  OOOOOOOOOOOOOOOOOOOOOOOO                                 
+                                 .,8OOOO8  8OOOOOOOOOOOOOOOOOOOOOOO+.                               
+                                 OOOOOOO8  OOOOOOOOOOOOOOOOOOOOOOOO .                               
+                                OOOOOOOOO, :OOOOOOOOOOOOOOOOOOOOOO8                                 
+                               .OOOOOOOOO8. ?8OOOOOOOOOOOOOOOOOOOO                                  
+                               ~OOOOOOOOOOO   8OOOOOOOOOOOOOOOOO:                                   
+                               .OOOOOOOOOOOOO...ZOOOOOOOOOOOOO..                                    
+                               .8OOOOOOOOOOOOOO . ....+?~$OOO,                                      
+                                .OOOOOOOOOOOOOOO8OO?.    . ~OO                                      
+                                  O8OOOOOOOOOOOOOOOOO.        8.                                    
+                                   .,8OOOOOOOOOO88O.                                                
+                                      OOO8OOOOZ..                                                   
+                                     O8D.                                                           
+                                    87                                                              
+                              .                                      .                              
+                           .$8OZ  .                             .  Z88Z .                           
+                       ..O8OOOOOOO8.                          ..OOOOOOOOOO.                         
+                        OOOOOOOOOOOO,                          OOOOOOOOOOO8                         
+                       OOOOOOOOOOOOOO                         O8OOOOOOOOOOOO                        
+                      $OOOOOOOOOOOOOOZ.                      ZOOOOOOOOOOOOO8$.                      
+                      OOOOOOOOOOOOOOOO.                      OOOOOOOOOOOOOO8O.                      
+                      +OOOOOOOOOOOOOOZ                       $OOOOOOOOOOOOO8I                       
+                       OOOOOOOOOOOOO8.                       .OOOOOOOOOOOOOO.                       
+                      .8OOOOOOOOOOOO8                        .OOOOOOOOOOOOOO.                       
+                        OOOOOOOOOOO8.                          8OOOOOOOOOOO,                        
+                        IOOOOOOOOOOO                          .$OOOOOOOOOOO                         
+                        .IOOOOOOOO=                             ~8OOOOOOOI                          
+                          :OOOOOO..                              .OOOOO8~.                          
+                          8OOOOOO7.                              ?OOOOO8O                           
+                          8OOOOOO8                               8OOOOOOO.                          
+                    .7OOOOOOOOOOOOOOO8$                     $8OOOOOOOOOOOOOOO7....                  
+                ..OOOOOOOOOOOOOOOOOOOOOOO8 .             8OOOOOOOOOOOOOOOOOOOOOOO..                 
+                8OOOOOOOOOOOOOOOOOOOOOOOOOOO.          O8OOOOOOOOOOOOOOOOOOOOOOOOO8                 
+                OOOOOOOOOOOOOOOOOOOOOOOOOOOO           8OOOOOOOOOOOOOOOOOOOOOOOOOO8                 
+               .OOOOOOOOOOOOOOOOOOOOOOOOOOOO.         .8OOOOOOOOOOOOOOOOOOOOOOOOOOO                 
+                OOOOOOOOOOOOOOOOOOOOOOOOOOOO,         .ZOOOOOOOOOOOOOOOOOOOOOOOOOOO.
+- 
+You head into programming team, the other three regulars are already there.
+You hear some diccusion going on about how to start the meeting, go on with
+the problem or let Lindsey present her solution for last weeks problem.
+As the MC zach has given you the option of what to start the meeting with.
+ENDOFPROMPT
+let Lindsey present her solution >3
+Just go onto the problem for this week >4
+ENDOFPAGE
+
+
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+......................................................?8D?8~........................................
+...................................................$DD7I?=+D.,... ..................................
+................................................:8DDO777I++D~.. ....................................
+..............................................~ND8DZ$7777I=+8.......................................
+............................................:N8O8DD~,$77II++N.......................................
+.........................................,,ONZOOD,,:+Z7III?=8I......................................
+.........................................~ND$ZZ8=~,....,Z?++7O......................................
+........................................~D87$$77=~:,....,+?+~N......................................
+......................................,=DZ?I77D==~:,,...,??++M......................................
+....DI77DMNND87:......................~8O++I77O+~~~:,:,?7I?++N+.....................................
+....7+=++??$DDDDNN8?,..............,:IO$++?I7$8==~~:,.$III??+NN..,..................................
+...?~+++??I7Z8ND888O8M8~......,+ZZZ7?++++++???I$Z=~:~Z$7II?+?NNODD8OZZOZOZ?~........... ............
+...Z~+++?$~,,,..OOOZ$77OD7,=ZZ7+~++==+++++++++?+??$=,O7III+?+DN?+?++++=+===+IZZ?.,..... ............
+...8~++?I7I$7,.,:=O$7II?IOO?=+=========++++++++?+??+7I?I??+?O8D++++++=========~+ZZ,.................
+...$++??I77~..,,:==OI??++=+==============+++++++????????????DON??+++++====~=~=~===7I,,..............
+...I7+??I7~....,:~++Z++++================++++++?????????????ZZN???++++======~~~~~==?O~..............
+....O+????.....,:~=?Z+===================++++++?+???????+?+8Z$M?I?++++========~~=====$7.............
+....N=?IZ,....,,:~+$+++==================++++++???????????II$$N?I??++++============+++I$=...........
+....M++?I~:,:+.,,~?=++===================++++++???????????I?$8NIII???+++++===========++?+?ZI?.......
+....?Z??II777~=,:~+++====================++++++????????????IZNN7III???++++++=========+=++=+ZI.......
+.....M=???I7778:?8++====================++++++?+???????????I?88$7III???????++++++++====+?IZZ?O......
+.....8D++??II$7+??++===================+++++?+?????????????++=NZ$77IIII???????????++++++++++D.......
+.....,NI++??III?I++++==================+++++????????II?II?++=++NZ$777IIIIIII?????I??+++++IO?Z=,.....
+......NN+++??????++++================++++++???????IIII778?+~~=+=M7$$77777IIIIII?IZ??+++++?IONZ......
+.... ..NNI+???+++++++=============+=+++++????????IIII$8MN~~~:~+?O8ZZ$$7777777ZO7+++?++++?I?$ZD......
+.... ..IDNO+?+++++++++=========+++++++++???????IIII7$DN~~::::~++NOZZZ$$$7ONOI+?+++++++++?IZ77OO.....
+.......,NDDNI?=++++++++++=====++++++++?????????III7$8D=:::,:~=+?N$ZZ7$MNO+?++++++++++++++?III7D?....
+.......,.ND88N++++++++++++++++++++++?????????IIIIII$N=~,,,,:~==D$OZMMZ+??+++++++++++++++???II7IM,...
+..........M888ZZ?=++++++++++++++++??????????IIIIII78~~,,,,:~++D8DNZII?+++++=+++++++++++???IIII7O+...
+..........,NOOZ$I7+++++++++++++????????????IIIIIII?O=:,,,:=++8DM$II?++====+++++++++++++??IIIII7$O...
+....... ..,.8O$Z7Z+=++?+?+?+?????????????????III??+~::,:~=++DN$77?++=======+++++++++??????IIII77N...
+.......... ..:M8I8==+++?????IIIII?????????????????+~:::~=+?8N77I?+=======++++++++++?????IIIIII77D...
+...............+8N=====++DNMMNNNMNI??????????????+=~::~=+IDN$II?+=======+++++++++???????IIIIII778...
+........ .......:D~~~~~==:==~~~~~=~,$I==++++++?+++~::~=+ZNNZ7??++=====+=+++++++++??????IIIIIII7Z$...
+.......... ......D=::::::::::,:::::::~~~~~~=======~::~+OMM$778++=++==++++++++?????????IIIIIIIIID=...
+........... .....7~~::::,,......,,,,,,,::::::~~~~:::~+$8M8O..7=Z?:?OO=,....$++???????IIIIIIII77D....
+..................$~~:::,,,,......,,,,,,,,,,,:~7MMI=+Z8DMO...~=.D........,??????????IIIIIII777DI....
+..................:$~=~~~:::::,,,,:,,:,,,,,:::::=?++DOOMN~..~=.=........,7??I???????IIIIIII77O8.....
+....................?$=~~==~~~~=====+++++==+=++??+NZZOONN,..:..........,7?ZZ?~I??I?IIIIIII778D......
+......................,..,:+I7$$8DZ$$8++??+??DD8$7$$$ZZDZ,............,+:~~+=O?OOIIIIIII777DD.......
+................................877$ZZ$8,?:~?D7777$ZZZZDI:...........,,,:~==II=+=$IIIIII77D7........
+................................$I7$ZZOO:.ZZNI777$ZZOON8$,..........,,:~===+?+???OIIII77ZN?,........
+................................,OZZOOOZO.,I$$ZZZZO8ON,ZZ,..........,:~===++++++?Z77I77D8,..........
+................................,7ZOOOD8D,7ZZZOOOOODD..~Z,........,,:===+++++++++ZO$7DD:............
+..................................7OND88.888O88888M~....O,.......,,~===+++++++?+Z+?8N~..............
+...................................,+I.,.DN8ODO8O8......??.....,,:~==+++++++++?+ID8,................
+.........................................$ND8N8N$........$.....,:~++++++++??+$DN7......... .........
+.................................... .....,......... ...,~?...,:~=+++++?++78D?,.....................
+..........................................................7:..:==+?+?+7OOZ~............ ............
+..........................................................,$:,+++?$O87=.............................
+....................................................... ...,$+7OO$:.................................
+......................................................  .....~,,....................................
+....................................................................................................
+....................................................................................................
+............................................................. ......................................
+....................................................................................................
+....................................................................................................
+....................................................................................................
+-
+Lindsey presents her solution for last weeks problem, but what is this?
+You feel a Disturbance in the force. Lindsey has somehow broke the laws
+of computer science and as it is computer science that holds the universe
+together the fabric of reality it's self start to rip and tear around you.
+You Died!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+====~~~~~~~~~~:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::~~~~~~~~~~~
+==~~~~~~~~~~~:::::::::::::::::::::::::::::::~::::~::::::::::::::::::::::::::::::::::::::::~~~~~~~~~~
+~~~~~~~~~~~::::::::::::::::::::::::::::++:=~:~~~O==+:~::::::::::::::::::::::::::::::::::::::~~~~~~~~
+~~~~~~~~~::::::::::::::::::::,::::::::=$8DDDDO8IZ8N=+=7ZO7=~:::::::::::::::::::::::::::::::::~~~~~~~
+~~~~~~~~:::::::::::::::::,:,,::::::::::=~ONDNNDDDNNNDNDNNNNNNND8=::::::::::::::::::::::::::::::~~~~~
+~~~~~~~::::::::::::::::,,,,:,,,::::::::~=$DNDNNMNNNNNNNNMNNNMNMND$++~~::::::::::::::::::::::::::~~~~
+~~~~~~::::::::::::::::,,,,,,,,,,:::::$O8DNMDDNNNNNNNNNNNNNNNNNNNNNNDZ$+=::::::::::::::::::::::::::~~
+~~~~~::::::::::::::,,,,,,,,,,,,,:::::+DNNMNNMNNMNNMMNNNDNNNND8DDNNNNNNND$~:::::::::::::::::::::::::~
+~~~~::::::::::::,:,,,,,,,,,,,,,:::::ZINNNMNNNMNNNND8DDD8888OZO$Z$ODNNNMMNZ::::::,:,:::::::::::::::::
+~~~::::::::::::,:,,,,,,,,,,,,,:::~=8DNNMMNNNDNDN88OD8$77777777777$ZZNNMMMN7:::::,,,,,:::::::::::::::
+~~:::::::::::::,,,,,,,,,,,,,,,::==ZDNMNNNNNNN88OODO77IIIII???II?III$ONMMMNI::::,,,,,,,,:::::::::::::
+~:::::::::::::,,,,,,,,,,,,,,,:,::=7NNNDDNNDDOOZZ7II????????++++???I7ODNNMMN+::,,,,,,,,,,::::::::::::
+:::::::::::::,,,,,,,,,,,,,,,,,,,~$NMMMD8NDD8$IIII??++++++++=+=++??I778DDNMN=:,,,,,,,,,,,,:::::::::::
+::::::::::::,,,,,,,,,,,,,,,,,,,,~ZMMMNDNO$DZI??++++++++=+===++++???II$ODNMN?:,,,,,,,,,,,,,::::::::::
+:::::::::::,,,,,,,,,,,,,,,,,,,,:~ZNMMNN887I??++++++=++=====+++7DNNN8II$8DNND:,,,,,,,,,,,,,::::::::::
+:::::::::::,,,,,,,,,,,,,,,,,,,,,:ODNNMD8$7I++++++++=+======IONO8Z7ZZIN?7ODNN:,,,,,,,,,,,,,,:::::::::
+:::::::::::,,,,,,,,,,,,,,,,,,,,::ZDNMMN8ZI???++++NO7I+====7O$?I++=IZZ7NNNZDD:,,,,,,,,,,,,,,,::::::::
+::::::::::,,,,,,,,,,,,,,,,,,,,,,:=ONNNDO$7???$D7ZZ7$$N$ZNNDN?7I$O$+$$7ZN$8OD:,,,,,,,,,,,,,,,::::::::
+::::::::::,,,,,,,,,,,,,,,,,,,,,,,,?DNNDO7I??N?$O????77~ZNDNN?Z+~.+O$?=+D7D8O:,,,,,,,,,,,,,,,,:::::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,:ODNDO7??N?I$?==+I$ZIN$$O8N$7I?==??=N+??88,7+7?,,,,,,,,,,,,:::::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,:DNNO7DNN7OO7?I==I8?N8??INNII++?I+M==++I+==~~7?,,,,,,,,,,,:,:::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,:D8O$IOI87+7Z?=+$Z?N?+++?+ONNNN+====++?=~+=++$,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,:78ZI887+Z==?++?I?D++~~~~=++?+++=====+?+$?~+?$,,,,,,,,,,,:::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Z$INI?+=ON=I$NDZ?+~=~=NN~=+==~~~~==++?+7I?I?,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?8OI++==~~=++++?~?8~==+++===~~~~==++?=I$$?+,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,+O+==++I+===~~===~==~=+??II??+==~~~~~=++?+++++,,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,Z$~~===+?+==~~~~~~~===+=+=??++===~~~~~=+?I+++,,,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,?O=~~+O+?++=~~~::~~~~=+?I?NNI?I===~~~~=++,,,,,,,,,,,,,,,,,,::::::
+::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,7O=?$$~=?+===~~:~~~~~?INNNDDNN~=~~~===+,,,,,,,,,,,,,,,,,,,::::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,I+~Z$==+?+===~~::~~=+8DZ7=OD7I======++,,,,,,,,,,,,,,,,,,:::::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,=?==~=???++==~~~~~=?$8::77I??====++++,,,,,,,,,,,,,,,,,,:::::::
+:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,===?,,+?+====~~~~=?=~=+==I+===++?+,,,,,,,,,,,,,,,,,,,:::::::
+::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+?++++==~~~=+?II+==~~=++?I~,,,,,,,,,,,,,,,,,,::::::::
+::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:+?????+=+==~=~~~~~~~=+?II,,,,,,,,,,,,,,,,,,:::::::::
+::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,????III???+=~~~====++7I??,,,,,,,,,,,,,,,,,::::::::::
+:::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???I777777II?????I7I??+??,,,,,,,,,,,,,,,,,::::::::::
+::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?????I7$ZZZ$$$77I??++++??,,,,,,,,,,,,,,,,:::::::::::
+:::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,????++++++???I?I??+++++?,,,,,,,,,,,,,,,,::::::::::::
+~:::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,???++=====++???II?==+++?,,,,,,,,,,,,,,::::::::::::::
+~~:::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,IIII?++======++?+?++++=+?I,,,,,,,,,,,,,,::::::::::::::
+~~::::::::::::::,,,,,,,,,,,,,,,,,,,,,,,,,=NI7IIIIII?++++++?+??????+++??II=:,,,,,,,::::::::::::::::::
+~~~~:::::::::::::,,,,,,,,,,,,,,,,,,,,,+88D$IIIIII??I????+?????IIII??IIIIII7ZND::::::::::::::::::::~~
+-
+The problem for the week is presented as normal, nothing special happens.
+As the meeting wraps up you some people leave and some don't, given this
+you can also leave or stay.
+ENDOFPROMPT
+Stay >5
+Leave >6
+ENDOFPAGE
+
+
+                                 MMN8DMMM                MMOOOOOOM                                  
+                                MOOOOOOOOOMM           MOOOOOOOOOO8M                                
+                               MOOOOOOOOOOOOOMM     MMOOOOOOOOOOOOON                                
+                              MOOOOOOOOOOOOOOOOODN8OOOOOOOOOOOOOOOOOM                               
+                             MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8                               
+                             MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                              
+                             DOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                              
+                            MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                             
+                            MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                             
+                            MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                             
+                            8OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                             
+                           MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOD                             
+                           MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                            
+                           MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                            
+                           MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                            
+                           NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM                            
+                           8OOOOOOOOOOOOOOOOOOO+?OOOOOOOOOOOOOOOOOOOOOOM                            
+                          MOOOOOOOOOOOOOOOOOOOOMMOOOOOOOOOOOOOOOOOOOOOON                            
+                          MOOOOOOOOOOOOOOOOOOOO++OOOOOOOOOOOOOOOOOOOOOO8                            
+                          MOOOOOOOOOOOO??8OOOO8??NOOOO8++OOOOOOOOOOOOOOOM                           
+                          MOOOOOOOOOOOOOOM????????????MOOOOOOOOOOOOOOOOOM                           
+                          MOOOOOOOOOOOOOOON??????????NOOOOOOOOOOOOOOOOOOM                           
+      MMMMMMMM            8OOOOOOOOOOOO8888M????????MNMMMMMMMMMMMMMMMMMMM           MMM8O8NMM       
+    MMOOOOOOOOOMM        MDDDDDDDDDDDDDDDDM??????????MDDDDDDDDDDDDDDDDDDM       MMNOOOOOOOOOO8M     
+   MOOOOOOOOOOOOOODMM    MDDDDDDDDDDDDDMMN?+?Z????Z?+?MMNDDDDDDDDDDDDDDDN    MMOOOOOOOOOOOOOOOODM   
+  MOOOOOOOOOOOOOOOOOOOMM NDDDDDDDDDDDDDMMDDDDDM??MDDDDN+MDDDDDDDDDDDDDDDNMMOOOOOOOOOOOOOOOOOOOOOOM  
+ MOOOOOOOOOOOOOOOOOOOOOOONMMDDDDDDDDDDDDDDDDDDDZ8DDDDDDDDDDDDDDDDDDNMM8OOOOOOOOOOOOOOOOOOOOOOOOOOOM 
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOO8MMNDDDDDDDDDDDDDDMMDDDDDDDDDDDDMMMNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM 
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOODMMMMNDDDDDDDMMDDDNMMMMMDOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM
+8OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM
+8OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8M
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM 
+MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM 
+ MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8MMMDOOOOOO8MMMNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM  
+ MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMM8OOO8MMMMMMMMMM8OOOOMMDOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM  
+  MOOOOOOOOOOOOOOOOOOOOOOOOOOOOODMOO8MMM               MMMOOOMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM   
+   MOOOOOOOOOOOOOOOOOOOOOOOOOOM8OMM                         MMNONMOOOOOOOOOOOOOOOOOOOOOOOOOOOOON    
+    MOOOOOOOOOOOOOOOOOOOOOOOMOMM                                MMDDMOOOOOOOOOOOOOOOOOOOOOOOOO8M    
+     MOOOOOOOOOOOOOOOOOOO8MDM                                       MMNMOOOOOOOOOOOOOOOOOOOOOOM     
+      MOOOOOOOOOOOOOOOOOMMM                                            MMMMOOOOOOOOOOOOOOOOODM      
+       MOOOOOOOOOOOOOOMDM                                                 MMMOOOOOOOOOOOOOOMM       
+        M8OOOOOOOOOOMMM                                                      MMMOOOOOOOOOOM         
+          MOOOOOOO8MM                                                          MMM8OOOOOMM          
+            MDOODMM                                                                MMMM       
+-
+You stay there and talk of many subjects and about many things gaining
+knowledge and learning to overcome your fears. For just a moment you zone
+out. As you start to zone back in everyone is talking about cowboys and
+partners for some reason.
+You Got The Cowboy Ending!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                             MM                     
+                                                                             MM.                    
+                                                                            M.M.                    
+                                                             .             M..M.                    
+                                                             M            M..7M=..                  
+                                                             MM          ,M..7D7..                  
+                                                             M.M         M..$$$8..          $M.     
+                                                             := M.      M..$777M..        MMM.      
+                                                              M..M .   M ..$777M..     .MM..M       
+                                                              M 7.M.. =D..$7777M=.   .M.77.M.       
+                                                              M $7$M,.M..777777M$.  M.$$77.M        
+                                                              O..77$NM...777777M$NM.,7777$M.        
+                                                              .M.77777..$777777MM..777777.M.        
+                                                     . ...     M.$77777$$7777777$77MMM$77M.         
+                                                    :O .$$$....M..$777777777777777MD8NM7O+          
+                                                      MMMD$$777N:.7777ZMZ7$77777$7M88M$7M.          
+                                                        D..$MM7$M777MM888MM777777MD8NM7M,           
+                         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMD .=M..$7ZM777M88888M777$$MD88M77M..          
+                       ,M... ., ..,......,...,..,, ....MM, +M.,7I$$$M88888M777MMO8DM$7M7..          
+                      MM.777MMMMMDMDMDN77$7MOZ$I7I??M8 ,MM ,.MM..$777MM8MMOMMMN88MM77$M7..          
+                     M,.7777M.       OM777$M .   ...M8    MM ..MM.=7$77NMM8O8888M777$M77...         
+                   MM .$7777M.       ZM777$M        MD     MM..  .. .7M88888888M7$777M7$77..        
+       ..  ..    .M~..$77777M..... . $M7777M. ..  ..MM7,..   MM...   .M888888888M77778MM77$7...     
+    8NMMMMMMMMMMMM ..7777777MMMMMNNNNN$777788OZZZZZ$$$777Z..   .MMMMMMM8888888888M7$7777$MMO7...    
+   MM            ...$777777777777777777777777777777777777777.........,M8888888888NM$7$77777.,MM.    
+   M.            .~77777777777777777777777777777777777777777777777777MN88888888888M7$M7$....        
+   M .777777777777777$777$777777777777777777777777777777777INMZ777777M88MM88888888M777M7..          
+   M  7777777777777MMI .$MM$77777777777777777777777777777MM. . DMM777M88MMM8888M88DM777M7.          
+   M  77777777777MM.      .MD77777777777777777777777777ZM.       MM77M88MMDMM88MM88MM$$D87 .        
+   M=.77777777777M.        .M77777777777777777777777777M .        MM7MM888MMMMO8MM88M?.$M7$...      
+   .MMOOOO88DDDDMM          MMMMMMMMMMMMMMMMMMMMMMMMMMMM          .MMMMMM88MMM88DMM88M. .M$~.       
+         .......MM          M8                         M.         $M.    MMMM888OMMM88M. .MO..      
+                 M.        .M                          MM         M .   MMMO88MMD..M88M.  ~D..      
+                  MD     .MM                            MM      MM   .MM8888MM    ZM88M.   M        
+                   .MMMMMM .                              ZMMMMM.    .M88MM...    MD8MM.    M       
+                                                                       ,$.       .MD8M..     M      
+                                                                                   ,M.        .    
+-
+You are so boring that you decide to leave. As you go to cross the street
+to head out to your car you get hit by one. Ending this branch of choices
+instantly.
+You Died!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+$$$777777I7I7I77777IIIIII7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII77777I7I7777III77777777777777
+$$7777I77IIIIII7IIIIIIIIIIIIIIIIIIIIIIIIIII7IIIIIIIIIIIIIIIIIIIIIIIIIIIIII7IIII77I77III7777777777II7
+$$777II7777IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII7I77777777777777777
+77777777777IIIII7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?IIIIIIIIIIIIIIIIIIIIIIII7777777777I77777
+777777I777IIIIIIIIII77IIIIIIIIIIIIIIIIIIIIIIIIIIII?IIIIIIIIIIIIIIIIIIIIIIIIIIII77IIIIII7777777I7I777
+7777777IIIIIIIII77IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII???IIIIIIIIIIIIIIIIIIIIIIII7IIII7IIIIIIIII77777777
+7777777IIIII7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?????IIIIIIIIIIIIIIIIIIIIIIIIIII7IIIIIII7777777777
+77777777777I7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII???IIIIIIIIIIIIIIIIIIIIIIIIIII7IIIIIIIIIII7I777777
+7777777777777IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII????II?I?I?IIIIIIII??IIIIIIIIIIIII7IIIIIIIII7I777777
+7777777777777IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?II???????????I??I?????IIIIIIIIIIIIIIIIIIIIIII77III7777
+77777I7III7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?IIII???I??III??IIII7IIIIIIIIIIII7IIIIII777777777
+7777I7IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?III?IIIIIIDD8O8OZ$IIIIIIIIIIIIIIIIIIIIII777
+777I777IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?IIIIIIIIIIIIIIII?IIIII8O?$?++?OZIIIIIIIIIIIIIIIIIIIII7II
+77777777IIIIIIIIIIIIIIIIIIIIIIIII?IIIII?I???I?IIIIIIIIIIIIII?IIII7OI?++=+?I$IIIIIIIIIIIIIII777I77777
+777777IIIIIIIIIIIII?IIIIIIIIIIII??IIIIIIII??IIIIIII?IIII?III?III7ZO$7I?$7I?8IIIIIIIIIIIIIII777777777
+777IIIIIIIIIIIIIIIIIIIIIIIIIIIIII?IIII????I?IIII?II?IIII?III?III7Z$I+?I?+++7?IIIIIIIIIIIII7777777777
+77IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDI????III??I????????II??II7ZOZ7?+=+I??7IIIIIIIIIIIIIII77777777
+77IIIIIIIIIIIIIIIIIIIIIIIIIIIII?I?I????8$???????????I?????II??II7Z8DI++=+=?$7IIIIIIIIIIIIIIIIIII7777
+777IIIIIIIIIIIIIIIIIIIIIII?I?IIIIII?????$7II????????I???IIII???II$Z87Z$??,::II?IIIIIIII7IIIIIIIII777
+77IIIIIIIIIIIIIIIIIIIIIII???I???????I???IIO7I???????I?III????IIII7O~::$$,,,::IIIIIIIIII7II77777II777
+7IIIIIIIIIIIIIIIIIIIIIIII??IIIIIIII??IIIIIIZ$IIIII????IIII???IIII=O~$7I~:,,::,,:II7III77II77777II777
+7IIIIIIIIIIIIIIIIIIIIIII?IIIIIIIII?IIII??IIIZZIIII?IIIIIII??IIII::::::,,,:,,,,,,,I77IIIIII7777777777
+7I77IIIIIIIIIIIIIIIIIIIIIIIIIIIIII???IIIII???7$7II?II??IIII?III~,:,~::,,,,,,,,,:,,IIIIIIIIII77777777
+7777777IIIIIIIIIIIIIIIIIIII?IIIIIIIIIII?II????7$$IIII??II?I?II~~+:,,,,,,,,,,,,,,,,IIIIIIII77I7777777
+77777IIII7IIIIIIIIIIIIIIIIIIIIIIIIII?II?II??III7$77IIIIIIII?I$,=:::,,,?,,,.,,,,:,,IIIIIIII7777777777
+77I777IIIIIIIIIIIIIIIIIIIIIIIII???IIIII?IIIIIIII7777IIIIIII?I:::~::,,,,,,,,,:,,,:,?7IIII7I77I7777777
+7777I77IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?IIIIIIIIII7$$7IIIIII7?I:~:,,,,,,,,,:,~,,:,=II7IIIIII77777777
+77I7II7IIIIIII7IIIIIIIIIIIIIIIIIIIIIII???IIIIIIIII7777$?III:,,::~,,,,,,,,,,,,:,,:,~IIIIIIII7I7777777
+7777II77IIIIIIII7IIIIIIIIIIIIIIIIIIIIII?IIIIIIII7II77$I??++,,,,~,:,,,,,,,,,.:,,,:,~II7IIII77I7777777
+7777I77777III7I777IIIIIIIIIIIIIIIIII?I?IIIIIIIIIIIII77ZZI+=?,,,~,:,,,,,,,,,,~,,,,:~I7IIIIII777777777
+77777777777I777777IIIIIIIIIIIIIIIIIIII?IIIIII77IIIIII7Z88IZ7:~+=,,,,,,,,,,,,:,,,::+777II7III777777$7
+777$7777777I777777777777IIIIIIIIIIIIIIIII7I7I77I7III777ZO:=~$+=~,::,,,,,,::,:,:,::$7777IIIII77777777
+$777777777777777777777777IIIIIIIIIIIIIIII7I7IIIIIII777I7$O888Z+=:,,,,,:::,,,,,,,::$7777I7II77777777$
+$777777777777777777777777IIII77I777IIIII77I777I7II77I77777$ZZO?+:,,,:,::::,,,,,,::=7777777$777777777
+$77777777777777777777777I777I7I7I7777777777777I777777777777$$Z7=:,,,::::::I=:,,,::777777777777I77777
+777777777777777777777777IIII7777III777777777777777777777777$$Z+~::,:::::::::?+$Z:+Z$$$7777$77777$$$$
+$77777777I7777777777777777I777777I7777777777$ZZZZZZZZZ777777$Z==~:::::,,,::???II?Z$$$$7$$$$$$$7$$$$$
+$ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ$$ZZZ8888OOOZZZZZZZ7I?IZZ$I++==+++++::~+~::~~~~~~ZZZZZZZZZZZZ$$
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZO8DDD88Z+========+7$7I+===++++?~~=:,:~:,,:,,,?ZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ$Z$ZZZZZZOOO8O77777$7$$$$7I?++=++++++?++++++++?III?7ZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOOOOZZZZZZ$$$$7II?+++++++++++++++++?7$$$$ZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ$$7I?II++++++++++++++++??7$ZZZZZZZZZZZZZZZO
+-
+You head up the elevator and into room 320. This is Jeremy Glebe's Data
+Structures class. You sit next to your best friend and start talking.
+Shortly after this the professor enter the room and prepares to start
+class.
+ENDOFPROMPT
+Keep talking to your friend >8
+Be quiet and learn >9
+Mention Game-Jam >10
+ENDOFPAGE
+
+
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,+O?N7..,,,..,NN$7O$~.,,...,N..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,.M,,$..,:7.,,...,,Z$Z~...,,.7?+ID.,,..,,,DO+,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,$7??,..,,..,,I$$7++?7,,..,,.8.,,..,,?$$777N,,.~.,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,D$?N::..,= .~,,.$77IO,,,..,,...,,..,,..Z?+?.,,...$,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..7,...,,..$I=..=8..~$...,,..,,,..,,..,,O..,,..,,,.?,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,~.,,,..,?DN,,,..,,..,,,..,,...,,..,,...N,..,DDNZ,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,,.,,,..,,..,,,N.,,..,,,..,,...,,..,,..Z7,..,+$?+I7..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.7,,,..,,NZZ$,..,,...,,8+NN,..,,DNNZ7IZN~..,7Z..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,:Z.,8I?IIN..,,,..,$??Z,,..,,+$?++N.$,...,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..ZOZID,,..,,,..ZN7:.,,..,,?Z$77D.,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,M..,,...,,..,,,..,,. Z+,.I$,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,:NNMMM,+,.=.,,..,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,..MMMMMMMNMMMMMMMMO:.,,..,,,..,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,NMMMMMMMMMNMMMMMMMMMMM8..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,.MMMIIIIDMMMMMMMMMMMMMMM:,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..MM=:$==?III7MMMNMMMMMMMMMM.,,,..,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,OIII+=..===+DO????MMMMMMMMMMMMD,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..=7??+====$+7======O$==+MNMMMMMMMMMMMN,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..:I?=IMMMMM===?====~~$+Z==+MNMMNMNMMMMMM..,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,.7I+===Z$$$NMD=====:..NM=$==NMNMMMNNMMMMMN.,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...=I?======$?I7$======....M====IMMMMNNMMMMM,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,7I===?O====I+IOD?????++======+MMMNNMMMMMMM.,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,I?====IM+===Z=DI7777777I?+====MMNMMMMMMMMM8,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,..:I+======+===+7I77$$$$$$7I+===OMMMNNNMMNMMMM..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,?I+==========+II77$$$$$$7I?=IMMMMMMMMNMMMMMZ,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...I?==========+?I77$$$$$$7I++?MMMMMMNMNMMMMMM$.,,...,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,.. 7?===========I?I77$$$$7I??OMMMMMMMNNMMMMMMM..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,.I?===========+?II777I?II7MMMMMMMMMMMMMMMMMZ,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,7?============++++++?IMMMMMMMMMMMNMMMMMMM7.,,...,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,...,,..+NDDDMN77I================+MMMMMMMMMMMMMMMMMMMMM..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,7DDDNDDDDNDDNNON=============+O+==8MMMMMMMMMMMMMMMM.,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...DNDDDDDDDDDDDDDDDDDD============III=MMMMMMMMMMMMM.,,..,,...,,..,,,
+..,,..,,,..,,..,,,..,,...,,..,,MDDDD8OOOOOOOOOOOOOOODDDNNMMMMMM=NM7+==MMMMMMMMNM,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,NDDD88OOOOOOOOOOOOOOOOODNOOO8DDDNMMM=NIN=NMMMMMMM,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,MDDDDD8DNNDDDDDDMDOOOOOO8DOOOOODDDZNDMMMMMMMMMM,.,,..,,...,,..,,...,,..,,,
+..,,..,,,..,,..,,,..,,.NNMMNNNDD8OOOOOOODOOOOOOOOOODOOOOD8II====?=,,..,D...,,..,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,$NMNNNNNNNNDDOOOOOOOOOOOOOOOOOODDNOOOIII=======+==D.,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,$NMNNNNNMNNNNNNDDOOOOOOOOOOOOOODM..,,..ND,..:$DO7+=??+?=7.,,..,,...,,..,,...,,..,,,
+..,,..,,,..,,..MMNNNND8OONODNNMNNNDOOOOOOODNNDO+,,..,,..,,,..,,..,$I7=8?=Z.,,..,,...,,..,,...,,..,,,
+,,..,~...,,.MMNNN8OOOOOOOO+OO8MMNNMDOOOOOOOOO~,...,,..,,...,,..,,...=?:DZ,,..,,..,,,..,,..,,,..,,.. 
+..,,NMMMMMMNM8OOOOOOOOD..,,7OOOO8NNMDOOOOOO+,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,MMMMMMMNDOOOOOM..,,,..MOOOOOOONNNOOOZ,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,..,,MMMMMMMN8ON.,,..,,,~NNOOOOONNMOON8,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,MMMMM=:.,,,..,,..MNNOOOOONNOON.,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,..++,..,,...,,..7NNOOOOONMOO8.,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,..,,...,,..,,...,,.MNDOOOONMOO+,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,.:NNOOOODMOO?...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,...,,.$D,...MMDOOOON8O,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,..,,...,,=7IIIIIIMMOOMN8.,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,D7======ONNN.,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,...,,..NN7?+===,,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,
+,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,...,,..,,...,,..,,...,,..,,,..,,..,,,..,,..,,,..,,.. 
+,,  ,,   ,,  ,,   ,,  ,,,  ,,  ,,,  ,,  ,,,  ,,   ,,  ,,   ,,  ,,   ,,  ,,,  ,,  ,,,  ,,  ,,,  ,,  
+-
+You continue to talk as the professor starts to teach. after a few minutes
+of the Jeremy turns around throws a marker at you, instantly hitting you
+in the face and knocking you out.
+You Failed!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOO8MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM8OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM8OOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8ZOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO==OOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO====OOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOOO8=====?OOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOOOOOOOO========DOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOO+8OOOOO?==========8OOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOO===OOOD==============ZOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMDOOOOOOOOOOOOOOOO?===?===================IOOOOOOOOOOO8MMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOO============================OOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOO=7=7+===================7==7===OOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOO8==================================8OOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMO8+OOOOO=======D======================D+=======DOOO+8OMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMO??7==========888====================888==========7??OMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMO???+=========888=========77=========888=========+???OMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOO???=====+++==N?===========$=========D===++=====???+O8MMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOO===+++++==========================++++++==OOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOO=++++++=========$======+=========++++++=8OOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOO=++++===========7+===$===========++++=OOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOD===================================OOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOO?===============================OOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOO==========================OOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMM8OOOOOOOOOOOOOOOOO8+===============+8OOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOOOOOO8+?????+OOOOOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOOOOOO?+O??????????I8DOOOOOOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOOOO8777+++??????????+++7778OOOOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMOOOOOOOOOOOO777777$+++++=+=+++++777777OOOOOOOOOOOOMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMOOMOOOOOO87777777777++++~+++77777777778OOOOOOMOOMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM8OOO777777777777777+ +7777777777777$OOOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM87777777777777777+ +7777777777777778MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM77777777777777777+++7777777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM77777777777777777777777777777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMM7777777777777777777777777777777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMM777777777$77777777777777777777777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMM77777777777777777777777777777777777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMM777777777M777777777777777777777777M777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMM777777777MM777777777777777777777777MM777777777MMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM7777777777777Z$7777777777777777777Z7777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM7777777777777$I=~IO7777777777ZZI~=7$777777777777MMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM77777?                 777                 77777MMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMM                        :                        MMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMM========?                          :                         .=========MMMMMMMMMMMMMMM
+MMMMMMMMMMMM=========Z                           :                           $=========MMMMMMMMMMMMM
+MMMMMMMMMM=========$                             :                             $=========MMMMMMMMMMM
+MMMMMMMMM=========.         ,::::::::::::::::    :   .::::::::::::::::.         +=========MMMMMMMMMM
+MMMMMMM=========$  ::::::::::::::::::::::::::::: : :::::::::::::::::::::::::::::  7=========MMMMMMMM
+MMMMM?========+7::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::=7+========?MMMMMM
+MMMM==========7777777777777777777$$$$$$$$7I??+++777+++??I7$$$$$$$$7777777777777777777==========MMMMM
+MM===============================================================================================MMM
+M=================================================================================================MM
+===================================================================================================M
++=================================================================================================+M
+-
+You stop talking to your friend and learn quietly. everything goes smoothly,
+however you really need extra credit in this class and decide to head to programming
+team to get extra credit for the class.
+ENDOFPROMPT
+Continue on to programming team >2
+ENDOFPAGE
+
+
+
+D8DD88888888888888888888888888888OO888O88OOO88O8OOO888888888O8888888O888888888888888888DDDDDDDDDDNNN
+8888888888888888888888888OO888888O888888OOOOOOOOO888O88O8O88O88888O888888888888888888888DODDDDDDDDNN
+D88Z888888888888888888O888888888O8O8OO8OOO88OOOOOOOOOO8OZ8O8O88888888888888888888888888DD8DDDDDDDNNN
+888D888888888888888888888O88888OOOOO88OOOOOOOO88OOOOOOO88DOOOOOOO888888888888888888888888DDDDDDDDDDN
+88888888N$ZZ=N88888888888O88O888O8$O8OOOOOOOOOOOO8OOOO8OOOO8OOO88OO888D88D888888888888888DDDDDDDDDDD
+888888O$ZZZ++++8O8OO8888OO88OO88OO8D8OOOO8OOOOO8888OO8O8OOOOOOZ+=+++++++++7O$888888888D88888DDDDDDDD
+8888888$$$7++++888888888OOOOOOOOOOO88888OOO88O88OOO8O8OO8OO=:=++++++++?8+?III8?8888888888D8DDDDDDDDD
+888888D$$ZZ++++88888OOOOOOO8888888O8O8OO8O8O8888OOOO8OO=~$I8DO++++++++++N=+?+???N88888D88888DDDDDDDD
+888888O$$$$Z+?M8888OOO8OOOO888O88OOO8OOOOO88OOOO8OO88++++++=O+=O7++++++7=+?+++?+?7888888888D8DDDDDDD
+88888888DZ$ZD888888O8O88888OOO888OOO8OOOOO8OOOOOOO+++++++?O==~+~=++++?OO+???+?+???=88888D8D8DDDDDDDD
+88888888888888888888ZO8888O888OO8O8OOOOOO8OOOOO8D++++++++=7?O8+8++?Z?=Z+I~+++?+????$8888888DDDDDDDDD
+8888888888888888O8ON$D888888O88===~==??+=====~+D++++++++Z7=7=MN$DO8O8NN8+7+?+????+??D88888D88DDDDDDD
+8888888888888888OOO8D88O888O8O++?$+==+=:++======+++++++Z?N=+NZ+::~:+NO8O8~????????+?+88888DDZODDDDDD
+88888888888O888OO8888888OO8O:I8+++++++++++++++O+++++++=++?++?+$=ID8$O88888DN+????????N888DDDDDDDDDDD
+88888888888888888O888O8OOO$O+++++==+?++++==++~7+++++++8Z77++++I==N$88888888888DZ+????I88D88DDD8DDDDD
+88888888888888888888O88OOZ++N=+$87+~+N8:+=$+IZO++++8=++++++++++=~DDO88888888888888??ZDD888888D8DDDDD
+888888888888888888888O88:7D8OOO8888OOOOOOOOOO8DD+++++D=ZZ+++++++++II888888888888D+8=++DN8DD8DDDDDDDD
+8888888O8888888888888OOO888O8OO8OOOOOOOOOOOOOOOOO8OOOOOO=D=++++++$=+ID8888888888O=7ZO?$O888DDDDDDDDD
+8888888ZO88888O888888888OOOO88OOO8O8OOOOOOO8OOOO8OOO8O8OOO~NO++++?+8D+=88888888D?Z=?8?$ZD8DD8DDDDDDD
+8888888O888888888888O88888OOOOO8888O8OOOOO8OOOOOOOOOOOO8OO8O=?:=++++?++OD8888888+???=+OZD8DD8DDDDDDD
+8888888D888888888888888O88O8OOO88O888OOOOOOO88OOOOOOOOO88OOO8=8+7++++?+?+8888888???????IDDDDDDDDDDDD
+8888888888888888888888OOOOOOOOOOZZZ$OOOOOO8OOOOOOOOOOOO8O88O8OO+8++++=O888888888???????=88DDDDDDDDDD
+D888888888888888888888OOOOOOO8OZ$$$ZZOOOOOOOOOOOOOOOOOO8888888O887878O888888888D???????NDDDDDDDDDDDD
+888888888888888888888OOOOOOZZZZZZ$$$$$$8OOOOOOOOOOOOOO88O8888O8O=8O8888888888888??????7DDDDDDDDDDDDD
+88888888888888888888OOOZOO8ZZ$ZZZ$$$$$Z$OOOOOOOOOOOOO88O8888OIDOO888888888888888=????+8DDDD8DDDDDDDD
+8888888888888DO88888OOOOOOOODZZZ$ZZZ$$$$OOOOOOOOOOOO8888OOO8O8888888888888888888D???=OD8DDDDDDDDDDDD
+888888D888888878888OOOOOOOOOO8ZZOOOZZZ$Z8O88OOOOOOO888OOOO888888888888D8888888DO~DIMN8DDDDDDDDDDDDDD
+Z888888888888888888OOOOOOOOOOOOOOOOZOZ$Z8OOOOOO8OO8O888888O8888888888$$88888887?:Z87O8DDDDDDDDDDDDNN
+O$88888888888888888OOOOOOOOOOOOOOOOOOOZZO8O8OO8O8OOO8OOOOO888888888888888888O++D?=Z7+D8DDDDDDDDDDNND
+D88D8D8D888888888888OOZDODZ8OOOOOOOOOZZ$8O8OO8888888D8O8888888O888888888888O7$8?Z?Z7I8DDDDDD8O8NDDNN
+DD8DD8D88D8888888888ZZZ$OZZ8OODOOOOOOOOO888O8OOO88887D88888888888888888888D7~++M??$+Z8DDDDDDDDDDDNNN
+8DDD8D8D8888888888888OZ$ZZOZZOOZZ8OOOO88O8OOO88OO8O8DD888O8888888888888888Z???????$7ND8DDDDDDDDDDNNN
+DDDDDDDD8D888888888888DZZZZZZ$$Z$$ZZO88O88O88OO88888888O888888888888888D88+???????O?88DDDDDDDDNNNNND
+DDDDDDD8D8888888888888888NOZOOOOO88888888OOO8O888888888888888888888888888D?????????N8DDDDDDDDDDDDNNN
+DDDDDDDD8DD8888888888888888888888888888888888888888888888888888888888888DD???????INDDDDDDDDNODDDNNNN
+DDDDD8DDDOO8888D888888888888888888888888888888888888888888888888888888888D??????=ODD8DDD8+IIIODDNNNN
+DDDDDDDDD8888D88888888888888888888888888ZZ8888888888888888888888888D88D88D????+NDDDDDDDDOIII?OONNNNN
+DDDDDDDDD8DDDD88888888888888888888888888Z88888888888888888888888888888DD8O??INDDDDDDDDDDN$$OOO8NNNNN
+DDDDDDDDDDDD8D8888888888888888888888888888888888888888888888888D88D88DDD$$$I$ZZDDDDDDDDDDDOZZDNNNNNN
+DDDDDDDDDDDDDDDD8888888888D88888888888888888888888888888888888888888888O8=+??Z8DD8DDDDDDNNNDNNNNNNNN
+DDDDDDDDDDDDDDDD8DD888888888888888888888888888888D888888888888888888888Z=+?+=8D7DDDDDDDNNNNNNNNNNNNN
+NDDDDDDDDDDDDDDD8D888888888888D8D888888888888888888888888888D88888D8888O=?+++$+~ODDDNDNDNNNNNNNNNNNM
+DDDDDDDDDDDDDDDD88DD8888888888888888888888888888888D8888888888O888D8D887=?DD?7?MODDDDDNNNNNNNNNNNNMM
+DDDDDDDDDDDDDDDDDDDDDDD88888Z8888888888888888888888888888DD8D8888D8DDD88$I?III?IODDDDDNNNNNNNNNNMNMD
+NDNNDNNDDDDDDDDDDD8DDD88888888888888888888888888888DD8DDDD88D88DD8DDDDD8?IIIII?IODNDNNDNNNNNNNNNMMND
+NNNNNNDDNDDDDDDDDDDDDDD8888D88888888888888888888D8D888D8D8DDDDD8DDDDDDDD8IIIIIIIDDDDDNNNNNNNNMNMMDDD
+NNNNNNNNDDNDDDDDDDDDDDDDDD888888D888888888888DD88DD888D8DDDDDDDDDDDDDDDD8?IIIII?NNDNNNNNNNNNNNNNND8O
+NNNNNNNNNDDDDDDDDDDDDDDDDDDDDD8888888DDDD8DD8DDD8DDDD8DDDDDDDDDDDDDDDDDDDDIIIIIO8NNNNNNNNMNMMMMN888O
+NNNNNNNDDNDDDDDDDDDDDDDDDDDDDDD8DDDDDDDDDDDDDD8DDDD8DDDDDDDDDDDDDDDDDDDDDDZDII8+7NMNNNNNNMNMMND8O8OZ
+NNNNNNDNNNDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD8DDDDDDDD8DDDDDDDDDDDDDDDDNDDDD78ON78DZ8NNNNNMMMNND8OOOZZ
+NNNNNNNNNNDDDDDDDDDDDDDDDDDDDDDDDDD8DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDNDI7?+?ID?O8NMMNND8D88OOZOOZ
+-
+You ask about Game-Jam. In a whirl of joy the professor start showing off projects and
+talking about the jam, snakes, frogs, boogaloos oh my. He spends so long doing this 
+infact that he forgets to teach the class but your ok with that.
+You got the Game-Jam Ending!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+===I??+++==~~~==+++?++==7$77I77777777I77777777$?~~~+================?+===:==~~?++++++++++++++++~~~=I
+==?+7IIIIIIIIIIIIII++I+=IZOZ$$77777777777$$$$ZO?~~==IIIIIIIIIIIIIIII++===,==~~+==~=~~~~====~==+~=~~I
+==I+II7IIIIIIIIIIII=??=~?$7I7NNNNNDDDNDNNNNZ77$+~~==?DDDDDDDDDDDDDD?=+==~,=~~:+888888888888888+~~~~?
+==?+IDDDDDDDDDDDDD?=+?~:+7I?IMMMMMMMMMMMMMMZII$=,:+=+D88888DDD8DD8D+==~~~,=~~:+88888888888888O+~~::+
+==I+?DDDDDDDDDDDDD?=+I::+I?++OOZ88DODDNMMMMZ??7~,,+~?DD88D8DDDDD88D+~=:::,=~::?O888888888888OO+~~::+
+==7+IDNDDDDDDDDDDD+=+?::+I++IOOOOOO8OODDDNDO+?I=,,+~ID8D88DD8DDD8DD?~~:::,=~::I88888888888888O=~:::=
+==?+I7I7IIII7II77Z7+=?::~7++=++++++=========++$:,,=:+~~~~~~~~~~~~~~=:~:,:,~~:,=~~~~~~~~~~~~~~~=::::=
+==+=+$77777777$$$77==?::I==~===~~~~~~~~~====~==:,,=:=?++++++++++???~::,,,,~~:,=88OOOOOOOOOOO88=:::,~
+~~+=+DNNNNNDNDDDDD++=?::I=~~~~~~~~~~~~~~~=~=~~=:,,~:===???=:~=???+=:::,,,+~~:,=8888OOOOZ8OOOOO=:::,~
+~~+=+DD888D8D88DND===?:::~~~~:~:::~::::::~:~~~~:.,~:===~~:=:~=~~~+~:,:,,:D~~,,~8O8OOOOOZOOOOOO=:::,:
+~:=~=DD88888888DDD++=I,,:~::~:~~:::::::::~:~::~:.,~:~?=~::~::~::~=~:,,,,,:~:,,~OO8OZZZOZOOOOOO=::,,:
+::=~=DD888888888DD++=?,,~7=~:::::::::,::::::::+:.,~:~?=:::~::~:::=~,,,,,,,~:,,~OOOZZZZZZZZO8OO=:,,::
+::~~=8D888DD888ODD==~+,,::::::::::::::::::::::~,.,~:~=~:::~::::::=:,,,,,,.::,,~OOOZZZ8ZOOZO8ZO~,,,,:
+::~:~88888888888DD==~+,,:::::,:,,,,,,,,,::::::::..~::~~:::~::::::~:,,,.,,.::,,:OOOZZZZZZZZZ8ZO~,,,,,
+::~:~88888888888DD=~~=,,:::::,:,,,,,,,,,,:,::Z::..::~~~:::~,,::::~:,,,..,.::,,:OZZZZ$$$$ZZZ8ZZ~,,..,
+:I=:~88888888888D8=~~=,,:::::,,,,,,,,,,,,:Z::::,..:,~?~:::~,,:,,:::,,,..,.:,,,:OZZ$$$$$$$ZZ8ZZ~,,,.,
+,?~:?88OOO88O888D8=~~=,,:::::,:,,,,=~,,,,,:,:::,..:,~~~::::,,:,,:::,....,.:,,,:ZZ$$$$$$$$$$8ZZ~,,..,
+,,:::O8OOO8?8OO8D8~~:=,,:::::,,,,,:::,,,,,,,:::,..:,~~:::,:,,,,,,::,......:,,:,Z$$$$$Z=$$$$8$Z~,,..,
+,,:::O88888OO88888~::=,,:::::,,,,,,,,,,,,,,,,::,..:,:~::::::,,,,,,:,.,....,,,:,Z$$III$$7III8$Z:,,..,
+,,:::OOOO~??I:OO88~::~,,:::::,,,,O8OZZZ,,,,,:::,..:,::::,:~~==:,,,:.......,,.:,ZZ$$$:::::$$$$$:,...,
+:,:::OOOOZOOOOO888~:::,,:::::,,,,,,,,,,,,,,,:::,..,,:~:???:,,,?++::,....,.,,.:,+$$$$$$$$$$$$$$:,...,
+:,:::O8OOOOO8OOO88~,::,::::::,:,,,,,,,,,:,I,,::,,,,,:$::,,:,,,,,,::..,..,.,,.~,ZZ$$$$$$$$$$$$$:..,.,
+:::::O8OOO8O8OOO88~:::::=::::,:,,,,,,,,,:,8,,::?,,,,::::,,:,,,,,,:,,.,.,.,,,.~,$Z$$$$$$$$$$O$$:..,,,
+::,::O8OOO8O888888~::::,:::::,:,,,,,,:,,:,,,:::::,,,::::,,:,,,,,,::,.,,,.,,,,~:ZZ$$$$$$$$$$Z$$:..,,.
+,,,::O888O8O8O8888~:::,,~7~::::,,,,,,,,,:,,,::~,,,,,,:::,,:,,,,,,::,.,,,.,,,,=:ZZ$$$$$$$$$$Z$$:,.,,.
+,,,::OOOOOO8OZZZZ8~::,,,DM~:::::,,:,::,,:,,,:~~:,,,,,::,,,:,,:,,:::,.,,,,,,,,~:ZZZ$$$$$$ZZZZ$$:,.,,.
+,,~::8888OOO888888:::,,,N~~::::::,,,,,,:::,,::~:,,,,,~:::,,,,,,,,,:,.,.,..,,,~:ZZ$$$$$$$$$$$$$:..,,.
+,,=:+7I++==++??7?7Z:~,,,~~~~~::,,,,,,,,,,,::::~:,,,,:~:::,,,,,,,,,:,,,....:,,~:ZZ$$$$$$$$$$$$$:,,,,,
+INDO==~=~~~~~~~~~==MNDI7~~~~MMMMMMMMMMMMMMM+::~:,,I???+++++++++====~?=....,,,~?Z8OOZZZZZZZOZ7Z:,,,,,
+87DZOO$Z$ZZZ$ZZ$$$77$DMD~?I??II?+??I=~===+++?I+:.,NND8D88DDDD8888888D=...I.NNZOO88O8ZOOO878888OD~,:,
+++Z7$Z$$$$$7$$$$$$7$$+I8III?++?++++?+=++++??I?7,..888O88OOZOOO8O8OOO87...MMO7I$Z$Z$$$$77$ZZOOOOIMN=,
+~~:::~~:::::::::::::::~?===~~~~~~~~~~=~~~:~~~=+~.III?II??????????I?++??..8O:,$ZZZZ+ZZZOZZZZOOZ::OO+
+-
+You enter the office. There are currently 3 professors in their offices: Jeremy,
+Grffin and Johnson. Who will you go see?
+ENDOFPROMPT
+Jeremy >12
+Johnson >13
+Griffin >14
+ENDOFPAGE
+
+
+======~~~~~~~~~~~~::::::::::,~:~~+~+=~~===?I+I=~=:::=+7?===I+=~:~:=+=~:+:,,,:,,,,,,,,,,,,,,,,,,:,,,:
+=====~~~~~~~~~~~::::::::::::I===~=7++==+I?7??I7II?~=~~++?I+?+++I??:,::::?~:::~~:,,,,,,,,,,,,,,,,,,,:
+=====~~~~~~~~~~::::::::::::~~=7=I??$=?I$7I7?77ZZ$+:+=+$7I=~++:=~I~?7~,:,::+~,:::::,,,,,,,,,,,,,,,,,,
+====~~~~~~~~~~:::::::::::::~~~=$77?7=IZ?~=~=I77Z$77+I$$ZI?=~=I?=++~+I=:::::+~~:=,~~,,,,,,,,,,,,,,,,,
+====~~~~~~~:~::::~::::::~=~~=~?=Z7$II+7II+IZI7+Z$$Z?I$7$$O+I?III?++=++~:::~I~=~~,::,,,.,,,,,,,,,,,,,
+===~~~~~~~~::::::::~::~~++?+?++??7O77$$I7$$$I7O$IZO+I?7$777?$7$77I?I+?~+=+??~~~:=+,,,,,,,,,,,,,,,,,,
+=~~~~~~~~~~:::::::::~I+=+?+??+IIIZZZ$7$OOOZ7$$O7$8OZO77$$II$Z$$77$$77II++=+=~::,+~..,,,,,,,,,,,,,,,,
+~~~~~~~~~~~::::::::~=???+7?I$+$O7ZZZZ$Z$OOZOZ$Z$ZOOOOZZZ7ZOO8ZOZ7I77II:??=?~~~~::~,,,,,.,,,,,,,,,,,,
+~~~~~~~~~:::::::~~:~=7I=??=7$7ZOZZZZ8OZ$ZZ$$OO888OZZZOOO888OOZZZ$$I7II77I?+?=~:==,.,.,,,,,,,,,,,,,,,
+~~~~~~~~~::::::::::=+~7I?=?IIIZOOZOO$$$8OZ$$$ZOOZ$Z$O8888O8OOOOOZZO$ZZZZ+7I??+:~+,,,..,,,,,.,.,,,,,,
+~~~~~~~~::::::::::~+=I$77$$$7ZZOO88O8OZO87$$$$OZO8ZZO888OOOOZO8ZZOOZZOOI?7I?++~~=..........,.,,,,.,,
+~~~~~~~~::::::::::=I7$77?7$ZZZZOO8888$7$$OO$ZZZIO88O888OZO8OO$$OOOOO$Z$I$7?I+=~::,...........,,,,,,,
+~~~~~~:::::::::::~$$$?~??I$O88Z888OZ$$77I?I7777I$7$$$8D8$ZZO77ZOOOOOZOZZ777II?I:,.,..........,:,,,,,
+~~~~~:::::::::::~~$$I??77$Z$ZOOD88O$$$7I?II777777I7IIZ8II?7$777Z888OOOZZZ777Z=7:,..,.........,.,,,,,
+~~~~~:::::::::::~~+7$O+I88ZZZ8888OO$77IIII7IIIIIIIIIIII?++I7777I8O888OOO$7$ZZ$I,,..,.........,,.,,,,
+~~~~~::::::::::::~:~??O$$$O$O888O8Z$77IIIIIIII?IIIII????++II78$$ZO888OOOOZ7Z7$O,,...............,,,,
+~~~~::::::::::::::~+++Z$Z7$ZOO88OZ$$777IIIIIIII??II???????IIII7$$O888OOOO8O$I?Z?,:,..............,,,
+~:~:::::::::::::::+~?7IIOOOOO888OZ$77III???I?????????+++???IIII77ZO888O8O8ZZZ7Z7:,.............,,,,,
+~~~::::::::::::::::Z$7$OOOOZ88O8OZ$7II???????????????++??????III7$O888OO8OOI$$$~.,.............,,,,,
+~~~::::::::::::::::87$O+O88O8D88Z$7IIIII???I???????????????++??III7O888888ZZZ$~.,..............,,,,,
+~~:::::::::::::,::~=?ZZ8OO888DDOZ7IIIIIIIIIIIIIII?????????+++++???I7Z8DD8O88OZ$:,.............,,,,,,
+~:::::::::::::::,::?~ZOOZ88D88OO$$Z$$$$$$777IIIIIIIIIII77II???++???IZDD8888DO?7:,...............,,,,
+~:::::::::::::::,,:??78OZ88888OZ$OZO888OOO$$77IIII77$OOO8OOO$7I++??I788O88?877+?,...........,,,,,,,,
+~::::::::::::::::~~:7=ZZZ88DDOZZZ$$$$7$$$Z$$$77III77$$$$$$$7777I????IOD8OOZZO?$?,.............,,,,,,
+~~:::::::::::::::::,::7O7DDDOZOOZ$$7777$77$ZZ7?++I7$$$7Z88Z$7777ZZ7+?78O888OOO7:,,...........,,,,,,,
+~~:::::::::::::::::,,:~=OZD8I8OZZZ$ZZOZZ$77$87+~~?8$77$$$777I?III??Z$7O8O888ZI~:.............,,,,,,,
+~~:::::::::::::::,:,:,==I8D788OZ$OOZZZZ77Z$$$I=~~+877$Z7$III+IZ$7I?7?OO8DD8OZ7+,........,.,,,,,,,,,,
+~::::::::::::::::::,,,::I88IIIZ$ZOOZ$$777777Z$I++I$I7$$$7I?+??77?+??I?I8O8OZ??=,.,.......,,,,,,,,,,,
+~~~~:::::::::::::::,,:=+?IOI?7$7I777$7777II7DZ+~~~$I??I7III?+~==~=+=++?OOO$~+:,,........,,,,,,,,,,,,
+~~~~::::::::::::::::::~==?I??III???++=++?III$?=~::~$++++++==~~::=+~~==?8OZI$.:,........,,,,,,,,,,,,,
+~~~~~::::::::::::::::::~?777?I???++===+??7II?+=~~::==??+====~::=++~=~~+7$=:,,,,,......,,,,,,,,,,,,,,
+~~~~~~:::::::::::::::::::+I77I~+++++=+??7I+I?+===~~~+=??+++==~:,~=~~~=+7?~,.,,......,,,,,,,,,,,,,,,,
+~~~~~::::::::::::::::,::,+$777I?++++???I$I777???+++??+?II?++++++=~~~~~+7?:,,,,,,,,,,,,,,,,,,,,,,,,,,
+~~~~~~:::::::::::::::::::~Z7777III?IIII777$ZOZ77II7O$$7$7II?????+=====?7I,,,,,,,,,,,,,,,,,,,,,,,,,,,
+~~~~~~~:~~::::::::::::::=~O$$$$777III777II$ZZZZ$$$$$7II7$77III???+++==?I7~,,,,,,,,,,,,,,,,,,,,,,,,,,
+~~~~~~~=======+====~====++$OZ$$777777777II7ZOZ$$$$$$777777$77IIII???++II==,,,,,,,,,,,,,,,,,:,,,,,,,,
+~~=~~88DD88888888O:~:::I$Z?OZZ$$777777$ZZ$$OO$$$$$$$7$ZZ$77777IIII??I+I===,,,,,,,,,,,,,,,,,,,,,,,,,:
+~=IZOOOOOOZZZ$ZI:::::+7$ZZI7OZZ$7777$ZOOOZZZZZ$$7$ZZ$7$ZZZ7777III??7??+=~::,,,,,,,,,,,,,,,,,,,,,,:::
+:::::::::,,::::::::=7$$ZZ$?=OOZ$7777$ZZZZOOOZZZZ$7I7$ZOZZ8$7III????I+I~=~::,,,,,,,,,,,,,,,,,,,,:,:::
+:::::::::::::::$7I~$$ZZZ$$??7ZZZZ$77$$Z$$$7$$$$$$$77III77Z$7IIIIIIII??==:~,:,,,,,,,,,,,,,,,,,,::::::
+~~~~~~~~~~~~~~~.77+OZZ$$Z$+~I$OZZOZ$7$7$7777777777II??IIII77II7IIIII7??II++~,,,,,,,,,,,,,,:,,,:,::::
+++++++++++++++?+==7DZZZZI777O8D8ZOZZ$$$7777777$$777I?????I77777II77$O$$$O$I+?++:,,,,,,,,,::,::::::::
+??????????????I???$DO7$Z77Z8O8D88OOOOZZ$77II777777II????I7$$7777$$$ZZDOOOZD87I+?=:,,,,,,:::::::::::?
+II????????????????$$7II$ZNOZ88NND888OOO$77I????II????++?I7ZZ$Z$$Z$Z$$$ODZD$OD$$7$III+,:,:::::::::~++
+III??????????II?77$77$7ONZDZDDNNNDDDDD8O$$7I????II????II7$ZZZOZZZ8Z$$$$ZZ$N$NN$Z8$$ZZ77I7II=::::~=?+
+===~====~~~~??+I77777ZZDZDZ$DDNNNNDDDDDD8ZZ7777I77III7$7ZZOO8OZZ78ZZ$$ZZZ$NN$8N$ZDZ$$Z77$O777I+~=???
+DDDDDDNZ$77I7$ODDZ$I7Z$8Z$ZZDDNNNNNNNDDDDDOZ$Z$OZZ$$ZZOO888OOZZ7N8ZZ$$ZZO$ZNNDOZ$DNDNO$$7Z87I$7IIII?
+NNND87ZZZZ$Z8DDO$7Z77Z8DZ$Z8DDDNNMNNDNNDDDDD8OD888888DDD8D88ZZ7$DOZZZZZZZ8$NNNDO$Z8NDDO7$78O777II7II
+NO87IO7$77Z$Z77Z7Z77$Z88$$ODD8DDNNMN88DNNDDNNNNNDDDDDNDDD88O$$7NDZOZZZZZZZZ$DNN8Z$7DNN8$$$ODZ77I$77I
+$Z7Z7777$77ND$7I$$I7ZONO$ZODDD8DNNNMD88ODDDDDDNDDDD888DDDOZ$$$DN8ZOZZZZZZZOZ7NNNO7Z$NNDZ7$8D8Z77I$7I
+7$8Z877ZOO$Z$777Z$7$ODD$$Z8D88D8DNNMND88OO888OOOZZOOOOZ$$$$77OND8OOZZZZOZZ$ZOZNNDZ7ZONND$$ZDDO$77ZZ$
+$Z7Z$$$8ZO$O7$7Z77$ONNO$$8DD888DDDNNNND8OZZZZZZZZZZZ$$$77777ZDN8O8ZZZZZOZZZ8OZ8NNO$$Z8DNZ7$8D8$77$$7
+ZOII$$OO87ZO7$$Z77ONNO$$OOD8OO8DDDDDNNND8OZ$$$777777777777I78NDOZ8Z$ZZOZZZOO$DZONNZ7ZODD8Z$ODD$$7$7I
+$7777$O8$ZZD$$ZIIZNN8$$$O8O8O8888DDDDNND88OZ$$77777777IIIII$DD8OO$ZZZOOZOZZZON8$8ND$ZZ8DDZ$$8DO$$777
+777$$ZOO$7DO$7$IONNO$$ZZ88OZ8OO88D8DDDNND8OZZ$$7777777II?I7N88OZOOZZZOOZZOZOD8D$ZDN8ZZODDOZ$ODOZ$$77
+7777$$8Z7ZNO7Z$ZDN87$7ZZOOOO8O8O888DDDDDN88OZZ$$$$77IIII?7DN88OO$$ZZOOOZZOOZD$D8ZZNNZZZDDOZZOD8Z$ZZZ
+Z$77$$DO$O8$Z7$DNO$Z$$8OZODZ8O888888DDDDDNN8OZZ$$777IIII7DDNOOZZZZZZZOZZZZOZDZODOZODO$Z8D8OZO88ZZ$78
+$$7$ZZDZ$OO7I$OND$$$ZZOOZ88OO8DNNMMMMMMMMNNN8OZ$777II??7ND8DDZZZZZZZZ$ZZZOZO8Z7888$8NOZOD8OZO8OZZ$D$
+$Z$ZZOOZZOZI7ONN$Z$$OOOZOOZDNNMNMMMNNNMMMMNDND$77II???7NNO8D$8O$Z$$ZZ7ZZODNDNMO7D8O788$ODD8OO8OZZZOZ
+OOOZZOOOD877$DNZZ7$ZOZZZOZ8DNNNNMMMMNNNMMMMMNND8??+++IDDD8DDZ8ZZZ$$ZODMMN88O8NDZZ8DZ788ZDD8OZOOOOZ$8
+OZ8OOODDD$7Z8N8$7$ZOZZZZZOZ88888DNMMNNNNMMMNNNMMDO?$DNDDDO8D8DNMNMMNDDDNNNZ$ZOD8$Z8DO$DO8DDOZ88OZZ8O
+ZZ8OO8D8$$$8NDZ$$ZZOZ$ZO$ZOZOOOOODNNNNNNDNMNNNNNMMNNDDDDDOZDO8NNNNNDZOOODNZ$$Z8D8$ZDDZ$8ZDD8ZD8OZZDZ
+$ZZO88O$$$ODDO$$ZZOOZZZZOZOZZZOOO8DDDNDDDDNNNNNNNMDDDD8888OOZONNDDD88$OZDD8$$ZODDO$ZDDZ$ODDDZ888OO8O
+OZZO$777ZODN8Z7ZOOZZO$Z$ZO$ZZZOOOOO88DDDDD8DD88DDDD88888OOOODDD88DDDZZZO8DDZ$$ZODDO7OD8Z$ZDDO$D888O8
+-
+You go vist Jeremy, his office is slightly more empty the most the other professors
+though this is to be exspected of a first year professor. There is art and pictures
+of a cat on the book shelf in the back and a large black towered beast of a computer
+on his desk, he asks you what you needed.
+ENDOFPROMPT
+Ask for help on a project >15
+Complain about his class >16
+Complain loudly about the other professors >17
+ENDOFPAGE
+
+
+DDDDDDDDDDDDD8DDDDDDD8888888D8888888D8888888D88888D888D88D8DD88D8DDDDDDDDDDDDDDDDDDDDDO?=~~~~~~~~~~~
+DDDDDDDDDDDD8DDDDDDD88DD8888888888888888888888888D888D8DDDDDD8DDDD8DDDDDDDD8DDDDDDDDDD7=~~~~~~~~~~~~
+DDDDDDDDDDDD8DDDDD88DD8D88D8888888888888888888D8DD888888DD88DDDDD88DDDDDDDDDDDDDDDDDDD+~~~~~~~~~~~~~
+DDDDDDDDDDDDDDDDD8DD888888888888888888888888888888D88DDDDDD8DD88DD88DDDDDDDDDDDDDDDDDD=~~~~~~~~~~~~~
+DDDDDDD8DD888DDDDDDD888DDD888D8888888D8D88D88D8D8DD8DDDD88DDDDDDDDDDDDDDDDDDDDDDDDDDDD=~~~~~~~~~~~~~
+DDDD8DDD888888DDDDDD8DD8DD888DD8DDDD8D88D8DDDD8D88DD88DD8DDD8DDD8DDDDDDDDDDDDDDDDDDDDD=:~~~~~~~~~~~~
+DDDDDDDDDDDDDDD8DDDD8DD888D888888DD88D8D88DD8D8DD88D8DDD8D8DD8DDDDDDDDDDDDDDDDDDDDDDDD=~~~~~~~~~~~~~
+D8DDDDDDDDDDDDDDDDDDDDDDDD888DDDDDDDDDDD888D88DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDZ=~~~~~~~~~~~~~
+DDDD8DDDDDDDDDDDDD8DD8D8DD8DD8DD8D888DDD88DD8DDD8DDD8DOD8D88DD88DDDDDDDDDDDDDDDDNDDDD8+~~~~:~:~~~~~~
+DDDDD8DD8DDD888DDDDDDDDDDDDDN8888D888DDDD888D8DDDDDD88DDDD8ODDDDDD8DDDDDDDDDDDDDDDDDDDDDO~::~~~:~~~~
+DDDDDDDDDDDDDD8DDD8D88888DDDDD88888888D8D8DD88OO8OZZ=++=7O=DO88DDODDDDDDDDDDDDDDDDDDDDDDDDN+~~~~::~~
+D8D8D8DDDDDDD88DD8$?+?$ZZ$7$$8D88DDDD888DD8DOZ$$?=~=++?+7I?7?$8O888OOOO8OO8OOO88DDDDDDDDDDDDD?~~:~:~
+DDDDDDDDDOI78D888?~~::~=~=888888DDD8DDDDDDO7I?=+==~~~.:~.+++I??7$ZZ$$7777I7II7$$OOO8DDDDD8DDDD=~~~::
+DDDDD888I~~?8D88D=~:~::::888888DDDD$DD8D$II7+==~~=,,:.~.,:=7Z7I?=+=~::~:~~:::~~~+?ODDDD8OOO8DDO~~~~~
+8DDDD8O?~:~IDDD8O~:~:::::+ZOOOOODD$+787??7+??=?+~~==::,~:IIDZZ=+?:~~::::::::::::~DDDDO$$7++$8DD~~~~~
+DDDDOO+~~~~DDD88?~:::::::?7$$$7$887~+?II7I7$7I=?=?+==:IMZNDDOO7=+?I+~:::=DDDD=8DDD7?$$7?=~~=7DD?~~~~
+D88OI~~~=DDD8D$$=::::::::~++=~:~$8++?IIIIII?=I+?=?+8N8DDO88OZ$+I~=+?++:~ODDDDDDDD?7$I?=~~::~=DDD~~:~
+D8$+~~7D8DDDO$$+~:::::::,::::,::7$I7+?II$+??I+?I7NDND88OOOO7$$I+?:+7I?++I$Z$7+?$Z$?=~~::::::~DDD=:~~
+DDDZ$DDDDDO$$?~::::::::,:::,,::~I?I+I?7????7$$ODD88OZ$IIII7$77$?+7+7Z77+7ZD88DD8O+~~~:?D8O$$$O88$I8I
+DDDDDDDDDDDDDDDD8OZ$$7I??+++===+I???I?I$?$OOODDD8OZ$I?++??III7IZZO8OOZ$?I+======~~Z8$I::~~~~~+$$I=O7
+DO7I$OODDZ=~~~:~~::::~=:~~:~:~+I?I7I??I$ZOZODDDOO$777+??????++?$DOI8OZZI7++=====+8?~$~++==++=+????OZ
+OO$$$77DZI++++++=+=+++?==+====?+II??7ZOZZO8DDD88O$7II??????++==?$DO$DZOZ$?7OZO$ZO+??O+=~~~~~~~~=OD8$
+II~~~~=D+~~~~:::::~$DD$7I7O::~?I$77O$Z$ODZDNDD8OZ$7I??+=+====~:~+ODD$8Z$$I?I~:O:==++DD+~:::::~~~==87
+??:,::=DD~::::,:::~:~7Z~~~8::?IIIZ$7$ZZZD8NNDD8O$7I??+====~=~:::~I8DOZ8O$$$III+=II+?8=~~~~:::~~~=?O$
+?~::::+D+=~~~:,::~~=?ID=+?8:~7$7$OZ$O88O8DDDD8O$77??????++~~:::::~ODDDOZO77I7I?+===?D7+=~~~::::~~+D+
+?~:::7DD+~~::::,::::~8I::=8:I$$ZOZOD8O8DDDD8OZZZ$777I777I7$Z$7?+==+DND8OZ$77II++?O?=8??+??+?+?I8D?=+
+~:~$D++D===~~:::::~ID?+::=O=7$ZOOODZODDDNMNND8OZOOO$$ZO8DDD8Z$II??=IMMND8OZ77$7Z7$DDDDDDDDDDDDDDDDDD
+8DOI$OODDDDDDDDDDDDDDDDDDDD77ZODDDOO88NDDDDDDD8D88Z77$O888DMMMMN8Z7=ZMNNOZO$I7?IIZO?O7?ND7$$$8+$OZ$+
+OOO8O$OO$D$I$?ODZ?$DDIDDD877OD8ZOOD8DDDDDDMNMMDDDDZ?+?ZDNNDMMDODMDZ+?NMMNDOO7I+?IDOZDDOODOODDDZDDNO$
+OOD8D7DDDD8ZDDODDD88DODDDDIODZOZO8D8DDNNMNMMMNNMN8$=:=IZ88OZOZZO?++~+7DNNDOOOII+IZDIZO7DDDDO$D?ODDO?
+I$DD8IDODD8787DDDZD8OZDD8OO$OOODOOD8DNNMNNNDD88OZI?~,:++???+??=:===:=IDMNND8O7?+7O8+IDI?DIZOON+IDDZ?
++788D=DD88O+DZ+DD$8D8$8D8$$$ZZO8OD8DNNNDDOOZ77I??+?=::==+=~:::~~:~::=?DD8DD8O$IIIZ8DDDDDDDDDDDDDDDDD
+8DD8DDDD8DDDDDDD8DDDD8D8OI$ZO88DDDDNNDDOII+++==++==~:,:~~=~~:~~==~~=+IDM8OD8ZZ7III$++7++$7$$?7??$Z$+
+?7OO?+ZZ7$=+$?+7$$$I+IOOIZZOO8DD8DDND8ZI?+++=++?III:,,:~~=Z7?+?+++?+IINNDII8O77I7$I777$77777777I777I
+7$OZ7$$$$Z77$$7$$$$$7777ZO8DDODDD8NN8ZI?=++?+I7$7:~=~=+?~:+8Z$$$777II7ND8Z7ZO$7?=~~=======~~=~~~~~~~
+======~=~~~=~~~~~~~~~~~7ZOOO88OOODMNO$II77777ZZO?I7$Z$$ZDOOD88OZZ$7I7INNDO7?$77~:::::::::::::::::::~
+:::::::::::,::,:,:,:,:~7ZO88OZDO8DNNO$7$77ZZZZOZZ$8OOZOOD8$O8OOZZ$$$77MDOO7$IZ7I~:::::::::::::::::::
+::,:::::,,:,::::::,,:~=7$ODZND888NND8O$$$$ZOOOO$7$ZO8DDD8Z7IO8O8OZZ$7$DN887$I$+~+:::::::::::::::::::
+:::::::,:::,::,:::::~~7Z8$8D8DDNDMNN8ZZ7$ZOZOOO$7$$OOO88O8DMMM888Z$Z7ZDNDDIII7=?~=:::::::::::::::~:~
+:::::::::::,,::,:,::=?7ZODODDDD8MMMMDZ$$$ZO8DDMMMDNDDNDDDDNDZDDOOZ$$7NMMD8$I$Z++=:::::::::::::::::::
+:::::::,::::,::::,::+7O$D78ODDDNMMNMMZZ$$$ZODZ$$7$ZZ8D8ZZ$I7$$OOZ$Z$ZMMM88$$7Z=~~:::::::::::::~::::~
+::::::::::,:::::,,::+I$OOIO8ONNMMMMMDMZ$$$ZZZ7III7$Z8O8O$7I??I$$ZZ$$MMMM88IOI7~=:::::::::::::::::~::
+:::::::::::::::::,::?+$O$7IZO8DMMMMMMMDZ$$$$7I????7ZZOZ$Z7I?+?77$$$NMMNNZ8IZ$$+::~::::::::::::::::::
+:::::,:::::::::,::::+?78$O7IZODMMNMMMMM8$7$$7??+=??????I?+++=+I7$$8NMMM8ZI$ZIOI=::::::::::::::::::~:
+:::::::::::,::::::,:=+?O888OOZDDNMMMMMNDO$$777I??+??IIII??++II$$$DNMMMMOII7$8$$I:=::::::::::::::::~~
+:::::::::,,::::::,::~++$8D8DD8ON8NNMMMMDOZ$7$$77I7I77$$$7II$$$$$DDNNNDD7II$$ZO$II+::::::::::::::::::
+::::::::::::::::,,:::=~+$88D8DDODDNMMMMDOOZ$$$$$$$$ZZZZZ$$$$$$ODDDNNNN777OOZ$$7+~~~=~~~::::~:~:::::~
+:::::::::::::::::,::::==?78D8DDD8NNMNMMN88OZZ$$$$$$777$777$$$O8DDDNDOI7$ODOO7Z7?=~~=~~:~::~::~::::~~
+::::::::::::~~:~:::::~~+?OZ888888DNDDNMNN88OZZZ$$$$$$$$Z7$$$O8DDDDDZOODDDOOOZO77?+~~~~~~~::::~:~~:~:
+:::::::::::::~+=+~:::~+$ZODDD$D8DDDO8ONNDD8OOOZZ$$$$$$$$$$ZZ8DD8DODDDNDDOZDOZZZ$II?=~~~~~~~~~:~::::~
+::::::::::::::+I+$7?$$OODDNDDOOOO8O$OO8DDDDD8OOOZZ$$ZZZ$$$ZZ8DDDDDNNDDD8D8OO$Z7??$O$=  ~~~:~~:~:~~:~
+:::::::::::::=+?++I7$O8DDDND8NZO$$ZO7$O8O8888OOOZZ$ZZ$Z$$$ZODDNDDNDDDDD8D8O77??+=.:$?I=:   ,~~~~~~~~
+:::::::::::::~=+?I77$ZZOD8DDO8Z8OZOOI?$$8Z8O8O8OOOOZZZZZ$$O8DDNNNDDDDODD8OZ$7II+:,.. ?+7,      ~~~~~
+::::::::::::::==???7Z$ZZZOD8O$O$$I7$??I7O8OOO888OOOZZZZZZOO88DDNNDDDZOZOO7$$7+?+~,... =7I,       .~~
+~:::::::::::~:? ,,,,=III7OOOZ$8$O$$7II+$Z8OOOOOOO8OZOZOZOZO88DDNN88OO$8O7O$7$I+~:,.. .+I=,          
+::::::::::~,  .    .?II7+$8D7$7I7$7II+?7?$Z8OOOOOOOOOOOO88OO8DDDDO8OZZOZ$$$$II?,,..,,:=:            
+:::::::::          ,:?7I7I?,+I??+=+~?+?I=7ZZZOOOOOOOO8O8OOOOO8DDD8OZOZ77$7Z$7?=.                    
+::::::~            .,::?=:.,:~~=~::~=~+:~~$ZZZZZOOOZOOO8OZZOOZZO8DO8O$II7OII$I.             ,       
+::~::, :           .~~:,..   ,:~:,~:~+=,:.7777Z$ZOOOOOOOOZ$$$$IIODDOO88887+II$:   :+=~=~~=~,        
+:~~:                ,:,,..    ,,...,+:,,. .I?II7$$O8OOOOZZ$7II???$888OZ$I?++=7:   +++===?+++:     . 
+:~:                  ..,, .    .........,, .???II$ZZZO$$$7I??++?==+7ZOZZZ?==~=   ???+===??+::.      
+:~             .        .=~         .        :+??II7$$$77I???+I+=~~=++++,,~,,= ,=++~,.,:~:. ..     .
+:,           .          :+?=~~++++??II.      ,:+??I7777II?+?++=~~~~:~~,....,,,:, ::.   ..    .      
+:     ,       .:        .~+=~::++=+?II: .     .=++??II??+++=++~~~~:::..,.....  : ..                 
+-
+You enter Mama Johnson's office. She complains about being busy and having so much
+going on, something about 3 commitee meetings and reseach projects that have gone
+untouched.
+ENDOFPROMPT
+Tell her you need help on a cs2 assignment >18
+Tell her your really stressed out >19
+Tell her you need help with a Big Data project >20
+ENDOFPAGE
+
+
+OD8D8D888888888888DOOZ7?I+?7$I77?=~+ODDDDDDDDDDDD+~~:~~I~~?DDDDDDNNDDNNDNNDDNNDNDNNNNNNNN8==~=~====+
+888888888888888888D=~~:::IDDDDDDDDDDDDDDDDDDDDDDN=~~~~~ODDDDDDDDDDDDDDDDNDDDNNNNNNNNNNNNNNZ===~~====
+888O88888888888DDDD=:::?DDDDDDDDDDDDDNDDDDDDDNDN7~~~+NDDDDDDDNNDDDDNDNNDDDDDNNNNNNNNNNNNNNN8==~=~===
+8888O8888888888DDDD=:~7DDDDDDDDDDDDDDDDDDDDDDDND+~~$DNDDDDDNDDDDDDNDDDNNDDDNDNNDNNNNNNNNNNNND~=~=~~=
+888888888888D88DDDD~~7DDDDDDDDNDDDDDDDDDDDDDDDNN++ZNDNDDDNDDNDDNNNNDDNNNNNNNNNNNNNNNNNNNNNNNNN=~~=~=
+88DDD888D88888DDDDD~?DDDDDDDDDDDDDDDDDDDDDDNDDDDNDDNDNDDNDNDDDDDDDDNNNNDDNNNNN8O8DDNNNMNNNNNNND=~~=~
+DDDDDDDDDDD8DDD8DDDDDDDDDDDDDDDZ.,,........,IDDDDDDDNDDDDDNDNNDDDNNDDDNDDNNNN$?~=+7$OODNNMNMNNM?==~~
+DDDDDDDDDD8DDD8DDDDDDDDDDDDD,,,,,...........,,,+DDDDDDDNDDDNDDDDDDNDDDDNNDND$+~~~~~~=?OOONNNNNO+~=~~
+DDDDDDDDDDD8DDDDD8DDDDDDDD,,,,,,..............,.,,DDDDDDDDDDNDDNNNDNDDNDNNDZ+~~~~~~~~~==?$O8OZI+~=~~
+DDDDDDDDDDDDDDDDDDDDDDDD::,:,,,,,,,...........,.,,,?DDDDDDNDDDDDDDDNDDDNNDO?~~~~~~~~:~~~~=7$I?=~~~~~
+DDDDDDDDDDDDDDDDDDDDDDD,:::::::,:,:,...........,,,,,,DDDDDNDNDDDDNDNNNNNDDI~~~~~~~~~~~~~~~~==~~~=~~~
+DDDDDDDDDDDDDDDDDDDDD:,:~:~~::::::~~:.....,...,,,,,,,.ODDDNDDDDDDDDDDNNDNO+~~~~~~~~~~~~~~~~~~~~~~~~~
+DDDDDDDDD8DDDDDDDDD8:::++=~::~~~~~~=~:::,:,,:::::::::,,=DDDDDNDDDNDDDDNDNZ~~~~~::~:~~~~~~~~~~~~~~~~~
+DDDDDDDDDDDDDDDDDDD:::=?=?===~=====+==++==~:~~~=~::::,,,7DDNDDDDDDDDDDNNNO~:~~:::~~~~~~~~~~~~~~~~~~~
+DDDDDDDDDDDDDDDDDD===~~I????++++I++=+======++====~~:~:,,,NDDDDDNDNNDDNDDND~:~:~~~~~~~~~~~~~~~~~~~~~~
+DDDDDDDDDDDDDDDDDD?++=~II+++I???++=+=======++=~~~~~==:::::DNDDDDDDNDDNDND8~~:::~~~~~~~~~~~~~~~~~~~~~
+DDDDDDDDDDDDDDDDDIII?+=+7I+=====~~~~~~~=~:~=~:~~~~==::::~=DDNDDDNDNNNNDDNI~~~:~:~~::~~~~:~~~~~~~~~~~
+DDDDDDDDDDDDDDDDDIIII?=+?I?=~:~:,,:~=~:,:,,,,,:::~==~:~~==DDNNDDDDDDDDDDD+~~:~:~:~::~~~~~~~~~~~~~~~~
+DDDDDDDDDNNDDDDDD?7III?=+=+=~~~~~~:::::,:::,,,.,,::~::~~=+DDNDDDDDDDDDNDDD?::::::::~:~~~::~~~~~~~~~~
+MDDDDDDD8O88DDDDDI77III+=::~=++++++++==+=+=+====~:,,:~==+?DDDDDDDDNDNDDNNDDNO~:::::~::~~~~~~~~~~~~~:
+NDDDDDZ?==?7$$IIZIII7II++???7$8OOOZ$$777$7$ZOOOO77?+~:~==?8DDDDDDDNDDNNDDDDDDNN?:~:::~~::~~~~~~~~~~~
+8DDDDD=:::~~~~=DD7II7III$I$$ODDDND8DOO$Z88NDDNN8OO7II=====7.,OOO8O88DDNNNDNDNNNND~:::~~~:~~~~~~~~~~~
+ODDDDD::::::::7+II7I77$$$8NO8DNMNNNNDZI78DNDNNNNN8O8ZZ$?==:7Z?+=++?7$ZO8DDNNDONNDZ~~:~:::~~:::~~~~~~
+8DDDD7:::::::~ID7II777OONDNOMMMDNNNN7=~~INMMNNMMDONDOO$?==7DDI::::::~?DNNNDOZOODNN~~~~~:~~~~~~~~~~~~
+DDDD$~:::::::+7DZ7777I$Z$7$$$ZOODN$?~,,,~?$OO$I$Z7+=I??+==O8D?77+:~$ZNN8$$$I+=IZNN?:~~~~~~:~~~~~~~~~
+DD8$+::~::::::+DO7Z77II777777$ODI?+=:,..,:=++8DD8DOI=~~~+?ZIZZDDDNNDDZ7$7I+~::~?8ND:~~~~~::~~~~~~~~~
+DZ$?~::::::::,:ODZO7I??II$7O8I++?I?:,,..,,+I=~==++=~:~:~+=8++DDDNDDDO7I?=~:::::~ZDN=~~::~~~~:~~~~~~~
+$I=:::::::::::,,OO$III?++?+++++I$~=+~~===::,OI=~:~::~~~=~=7~=$$ZZ7$Z$+~~::::~~~~$ND$++~~~~::~~~~~~~~
+D8888OOOOZOZ$777I77IIII?+==??7ZNOZOZZO8OODZI$N8I+==~:=====~+Z$I???II$O+::7O+~~~~?$7=~77~~~~:~~:~:~~~
+~~:~~:::::+~:::::??III7????7Z8N7ONMMDNNDNMNDIZN8$?+++=====~:~==+====~~8?8~~~==++?$7I+$7~~~~::::~:~~~
+?+++==++++I?=++++?7IIII7I7$Z8$IIOOOODDNNMMMO??I$8O7??+====::++=?77++87+?I+++====+IZZZDZ~:::~~~~~~~~~
+:~:::~~?DDD88O8O:~I77$$$7ZOZ7$$$OOODNNMMNDO$I7$I78O77??+??~?:~O~::DDD88DD=~::::::::~7D+::~~~:~:~~~~~
+:::,:::::=8?~:=O::77$7$$ZZOOOOO$OOD8DNNOO8$O?7$IZOZZ7I?7?II:::$O7$O=?+=7DNDI=:::~~+++$$~:::::~:~::~~
++=,::~~++I?D+?7O::7?$Z$$7$$ZONDD8ODDNNDDNDDODZNM8OO$$7II7++::=+=~+???++$Z~::::::::~~+O?::~~::~~::~~~
+::::::::~+8?:~I8::IZ77$O7$77ONMMNOO8OZ7I???7ONMMD$OZ7Z7$II?=:~+==+=~~~~IO?+=~::::::=8O=:::::::::~~~~
+~::::::~7DI:,~I8::~7ZZZ$$O7OO8D$77I77$7Z777??I788OO$$O$$ZI~=8D8ZZZ8ND7NDDNNNNDNNNNDD7Z$I777$$Z$$~~::
+NDDDDDNDDDDDDDDDDDD7$Z$ZOO$DD$$$7ZOOD8DDNDOZ7I=ZODZ8O8ZOZIDNDDDNNDDDNNNDNDDNN8ZNNOON8O$$O$7NN$8N=~~~
+DO8DDZZDDO7DDDN7I7D7$ZZZZ8D8N8Z$$8DNDDDNNNDO$7$ODDDDN88O$INZZNDZD$7NDDD7DDIDOON8NZZNNOINDN?ONONN=~~~
+ODOODDD8DD8DDDDODDDDOZ8DDODD8OO8ODOO88ND8D$Z8$O8DNNNDD8N7??D8DDNDOO8DDD$DOONNOZONZONNOZNNNNODNND?~~~
+8Z$DDDDD8ZDDDDDDOZ88M$8DO88DD8OO$$77I$I$?III$88ODNNNDND87NNDNND7N$7NNDN+DZ?NONDODI7NNO?NNNN$MNNN?~~~
+8D+ODDDDDZDDDDZOOMMMM7$O8888DOOZZZ7$$7O$I7II7Z8O8MNMD8DO7MMMMNNNZOO8DNDODNDDDD8DNDNNNNNNNNNNNMNN?~~~
+DDDDDDDDDDDDDDDNMMOMM7ZODDDD8OOZO$O7$ODZ$O??$OOODNNNNDOO$MMDZ7++~7~OOOZ?$7?Z$Z$?7??OO?+$OZ$+?$$7+~~~
+O$7OOZO$I7888ZNMM$DM?7$ZNDDONNDOZDOOO8DDD8OO8DDDMDMND8O7?8MZ7Z$7+~=~Z$$?$$I$$$Z$$7I$Z$I7$$$II$$7+~~~
+O$7OZ$OO$$OOO$DDZ$DMI7$Z8ODNDNDDNMNODDDDD8NNDNNNNDDDNDZ7I,:N$III7~:==????++++?+?++++++++++==++++~~:~
++++==+++=====88ZZ$DM77$$ZO88DNDDDDDDNMNMNMMNNDDNDDDD8O$$?,:~8Z7$7:=~+=:::::::~::~:::~~::~~:~~~::~~~~
+:::::::,,+I778ZOZZONN$$$$$OODDDNNMDNMDMDMMNNNNDDNDDDOO$7?:,~$M8O?~==+=~::::::::::::::::::::~::::~~:~
+:,:,:+??II77$7Z$ZZ$8MD$$$ZZZOOO88NMMNNNMMNNNNNNNNDDD8O$7?~:==:MI=+???+~===:::::::::::::::::~::~~:~~~
+:,+???+??IIIZ7Z$$ZZ8NM8$Z$ZOOOOOODNNNMNNNNNNNDNNDDD8OO7I?::~=77+=?=:=++D7~=++::::::::::::~~::~~~:~~:
+I???????IZ87$$$O$Z$ZDNM8ZZOOOOOO8DDDNNNNNNDNNDNNND88OZ7I~~~ZZ7???~~??$M?7I~~~==+:::::::::::~:~~~~~~~
+???===$OI?I77$$7$7ZONNMNOZ$Z$OO8DDNNNNNNNNDNNDDND88OZ77==:7I$7++?=ZZ?:=~~~~7I?~=~=+:::::::~::~~~~~~~
+++777+?+I?7I7I77$ZOZNMNM88D$ZZOO8DDNNNNNNNNNNNDDDOZ$I+=+:?Z77~?NZM$=~~~~=:~~~~~?7I~+++::~:~:~~::~~~~
+O?=+==+++$7$ODD88O8OZD88M88N$$$$ZOO8DDDDDDDDNN8OO$I?==7$NMNMMMMMN887=~:=:=~~~~:~~~~=7?++++::::::~~~:
+=+~=++++?I???$OO$ZO$ODN$$O8DD$$$$ZOOOD8OOOZZZO$$II?7NMMMMNDMMMMMN8D8?=~~=~~~::~~~~,~~~:=7+=++:~~~:~~
+====+=+??IO$7$$$7I$$7777$77Z8DOZZ$ZZZZZZZ$777I??I$DMMNMMNDNMNMMMDDNN$?+~:~=~~==~:~~::~~~~~=?+?:~~~~~
+++==+=++O++?$$77ZZ7$$77777$Z$OZOOZOZZOOOZ$ZOO88OZIM88MM7ODDNNMM8Z8DD8??~~~~~=~~~~=~~:~~~=~~=~I??~:~~
+~==+===?O8MMMMMNDD8MMMMMMMMDI$$ZOOZ$$$$77I??+==+=NZ8$$?7$I77I7?I?77Z$?+?=:=~=~~~~=~~~:~~~=:~~:7+++~~
+=++++++=??+??I?I7$Z8DNNMMMMMMMMZ77ZZOZZZ$$77$I+~D77II?7?+?=???++++??I+=+=~~==~==~~=+?~~==+=~=~=?$8~~
+=+=+=~==?+?+?+?+?II77$O888DDDDDMM87ZZ$I+++=~=~~N77?+?$I++++=+==+===+++==~~~~~===~==+=+:+++=~??===Z+=
+=++~++++++?+?+??I?7?7?I7$$$88OD8DMM$$77?=~+=~~:8?I?IZI?~====~==++===+=+===~=~~===~=+==+=?=+==?=??Z?=
++++=?++++++??++????I??II7I77$$88D8M88II??=~~~~8$?=?$I=+~===~~~====~~===+~=~~~~~~=~~~++==++I++?=?$I??
+=+++===++++++??+?III+?II?III777I$Z8MZOMI++=~~~8???O7?+~===~=~====~==~=~~~===~~~===~++?++=+??=??+8?II
+???==?~+++??+I???II??????IIIIIII?7788ODN8+==~ZO7+OI==~=?+?===+=~====~=+=~=+==~==~===?I??+?I?=?IIDII$
+?+=??=?+++??+??I???II?7+III?III?7I7I$?$NM8=~~87777++==++=++==+==?=~~~===~~==~==~+==~=?I+I=?7?I78ZI7$
++++=?+?=+=+??++???????I?7??I?7?7II?7???I8M8?I87??+?+++===~===~~~+==+:~=+~=+~==~++?~==?II?7II??I8Z7$7
+-
+You go to Griffin. His office is somewhat of a mess but in a weirdly organized way.
+Everything is within reach of his swivel chair. There are pictures and awards on the
+wall as well as a very full bookcase in the back. He asks you what you were needing
+but dosen't take his eyes from his computer and only halts typing for the time it take
+to speak.
+ENDOFPROMPT
+Ask "Terry..." >21
+Ask him about Big Data and Networks >22
+Bash PHP >23
+ENDOFPAGE
+
+
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNND                                                                     
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN,                                                                   
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                   
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                   
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                   
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN,                                                                  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                 
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                               
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                              
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN          N              .            I             .        
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN         +NM            N             NZ            .N       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN,   8.      +NM   N.      IN             NM   M       .ND       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN..   .8N   ,. +NM  .NN   ~. INM  .+.   +.. NM  .MN   I. 8ND       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.    M8N  .8N.ONN,.MNN  .ON ONN..NMN  .ON :NN .DMN   ON 8ND       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   NN8N 7N8NNONN8NNDN 7NONNONN8NDDN.7NONN8NNDNDNN:7NONN8NDD.     
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNM    NN8N.NN8NNONN8NNDN.NNONNONN8NDDN.NNONN8NNDNDNN:NNONN8NDD.     
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.   .M8N  .8N.ONN,.MNN  .ON.ONN..NMN  .ON.ONN..DMN  .ON.8ND.      
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN     +8N  .++.INM..+NN  .?+ $NM..+M.  .I+ .NM .=MN   7+ 8ND       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNO       8.      +NM   N.      IN.        .   NM   M.   .  =ND       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.               +NM            N             NM            .N       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                N                           N              ?       
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                .                                                  
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.                                                                   
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN,                                                                    
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNN+                                                                      
+NNNNNNNNNNNNNN+                                                                                     
+NNNNNNNNNNNNN.                                                                                      
+NNNNNNNNNNNN.                                                                                       
+NNNNNNNNNNNM                                                                                        
+NNNNNNNNNNN,                                                                                        
+NNNNNNNNNNN                                                                                         
+NNNNNNNNNNN                                                                                         
+-
+You ask Jeremy for help. He quickly exsplains the issue however once that is over
+he starts just talking to you about anything and everything logic, life, death, the
+world. You gain much and speak very little.
+You Got the Jeremy Ending.
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+++++++++++++++==+?IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII+===+++++++=================+=====+??????IIIIIII?++
+????????I???IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII?=+++??++++=========++++++++++++????IIIIIIIIIIII?+=
+???IIIIIIIIIIIII7IIIIIIII7777777777777777777777I?++++?I7I??III?=++++++??????????I?IIIIIIIIIIIIIII?+?
+??IIIIIIIIIIIII7IIIII7777777777777777777777777777I77777777III7I++++???????????IIIIIIIIIIIIIIII??????
+??IIIIIIIIIIII$78I777777777777777777777777777777777777777777777II??????IIII?IIIIIIIIII77777II7777777
+??IIIIIIIIIIIMN8OI7777777777777777777777777777777777777777777777777IIIIIIIIIIII77IIII7777777777777II
+??IIIIIIIIIIMMNNNMMZ7777777777777777777777777777777777777777777777777III7777777777777777777IIIIII+?+
+????IIIIIIIIDD7I7$77ZO77777777777777777777777777777777777777777777777777777777777777777777777III????
+????IIIIIIIIIN7NIZZ7OD77I?I77777777777777777I?II????I777777777777777777777777777777777IIIIIII++++++?
+??????IIIIIIIINNDOZ$I77777I??????77777777III????+~:+??IIIIIIIIIIIII7777IIIII??????IIIII7777777??????
+?????????IIIII$ZZ$IN7I7777777III?77777II==+=~:::,,:==?????????????????????????????????????????IIIIII
+???????????IDD7ZIIIIIIIIII7777777?7$$$7?II+?I7I==~::,::,,,::~++???II????~+???~:,,:+++++++????II77I77
+???????????Z87?O7IIIIIII7777777777$77I77I+?+II+~~=+?II?+~~:::::,::::::~~~~~~:==:,:::,,,,,,:=+?II7777
+?????????????II$7IIIIIIIII777777777777=++??II??=~~:+?+~~+?II?II77IIIIII??+=:::::,,,,,,,,,,,,,:=?I777
+???????????????IIIIIIIIIIII77777777777II?::=+?I?+++===I77II+:~+~:~=?????????II?+:,,,,,,,,,,,,,,~I$$$
+?????????????IIZIIIIIIIIIIIIII777777777I?=:::?I?II+==?77?$$$$7II+?I?+~:::~++??II7I?=:,,,,,,,,,,~?$ZZ
+?????????????IIIIIIIIIIIIIIIIIII77777777III?+~:+IIII7777?$$$$I++???II?????++~~=?+?III?~:,,,,,,:??7$$
+???????????????IIIIIIIIIII7II777777777$$7777I77I+:===?777$$$$$$7I??+~::::::::::~:~==::::,:~:,,,++?I7
+$I?7?IO7II?II?7ZZ$88Z$7?II?78$IZO8O77OOO888O$7IIII?=:::::=?77$$$$$$$$$77?=~?IIII??++=::,,,:~~~~,,,:=
+OOZI?7ZO88ZI???$OZ8DOOZ8OZI$OZOOOO88OOOOOOOOZZOZ77III+:,,,,,:~+I7$$$$$$$77II?=?II???II??+~:,::===:,,
+OOO$I?$ZOD8O7?I$O$$88OO8OO$$OOZOOZOD88OOOOOZZOOOOZ77$7I?+~:,,~+II7$$$$$$$7777I?+???IIII?????+:,,,,,,
+$$ZO$7$$$OD8OZI7OO7OOOO88OOZOOOZOOZO88OZOOZZZZOOZZZ7$Z$77II?+:,,~I7$77$$$$$$$777IIIIIIIIIIIII?+~,,,,
+ZZZOOZZ$ZZZD8ZZ$ZO77OOOOOOOOOOOOOOOZ88OZZZZZZZZZOOOZ7ZZZ$$777I?::=++77+:?77$$$$$$77II77777II?+~,,,,,
+ZZZZOOO$$$$ZDOZ$$OZ$OOO8O8OOOZZZZZZZZZOZZZZZZZZZOOOZZ$ZZZZ$777I?~::?777I~::+I77$$77I+?IIII????=,,,,,
+$ZZOOOOZZZZOO8OZOOOO8ZOO888OOZOZZZOZZZOOZZZZZZZZZZZZZZZZZZZ7$$7II~+==I777I~,,:~?I77I?+:,:~==:::,,,,,
+$$$$OOOOO$$ZOOOZZOOO8OZOZO8OOZZZZZZOZZOOOOZZZZZZ$$ZZZZZZZZ7I????::,~+::+???+~,,,,::~::,,,,,,,,,,,,,,
+Z$$ZZZZOZZZZOOZZ$ZOZOOOOZOOOOZZZZZZZZZZZZOOZZ$$7I??I$OO88OOOOZZ$$7I=:~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ZOZZZZOOOZZZZOOO$I7ZOOZOOZOOOZZZZ$$$I++?7ZO88OOO88OOO888OZOO888OO$7I?:,,=?+:,,,,,,,,,,,,,,,,,,,,,,,,
+$ZZ$$ZZZOOZZZZOOZ$7$ZO$7I+=+IZO888OOO88888OO888888OO8888OOOOOOOZZZ$7I=,,,+I??~,,,,,,,,,,,,,,:?????II
+$$$$$$ZZ$Z$?+==+I$O888OOO888888888O88DD8D888DOOZDDDDOOOOOOOO8DD88OOOZ7III7+77?=,,,,,,,,,,,,,,=I$OZ$$
+===+I$O888OOOOO888888888888O8DDDDD88DDD88DDOOO8OO8DDD888ODDDDDDDD8888OOOZZ$Z$7+,,,,,,,,,,,,,:I7$$$Z$
+OOZO88888888888888O8OODDDDDD88DDDDDDDD8OO8DDDDDDDDDDNDDDDDDNNNNDNDDD888888888Z$+:,,,,,,,,:+?7$ZOOOOO
+8888888888O88DDDDDDDD88DDDDD8DD8OO8DDDDDDNDDDDDD8NDDNNDNNDDDNNNNNNNNDNNNDDDNDDOZ$7I?+++I7$ZZO88OOOZO
+88O8DDDDDDD88DDDDDDDDD88DDOO8DDDDDDNNNNDDND8DNDNNNNNNNNN888NNNNNNNMNMNNNNNNNNNN8D88OOOO88DO888888888
+DD888DDDDDDDDDDDDDDDDOODNDDNNNNDNDNNN8OODNDNNDNNNNNN88888888DMMNNNNNNNMMMMMMMMNNNNNNNNNNNNDDDDDNMMNN
+DDDDDDDDDDDDDDDNDOODNNDDDNNNNDNNN8888888N8N8DDNNNNNNNNNNNNNNNNNNNNDDDDDNNDDDDNMNMMMMMNNNDMMNNNNNNNNN
+-
+You compain about his class, he fills with the anger and power of allen turing and
+decimates you on the spot.
+You Died!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+====================================================================================================
+==============================++====================================================================
+============================I?:+====================================================================
+===========================+=:O=====================================================================
+===========================~,O8=====================================================================
+==========================+:8O======================================================================
+===========================88+~+======================O:~===========================================
+============================++7=======================7O+===========================================
+==============================7=~+====================$Z============================================
+=======================~+====8I?+=~+==================+++===========================================
+======================+~8======ZI+=~~=================++============================================
+=======================++=======$$?+=~~+==============7=~===========================================
+======================?D8=========Z$?+==~~+===========7+~+==========================================
+=====================++D??==========O8=$=~============+=~+==========================================
+======================DDII?7=========+?87+==~===?I=:===I~,==========================================
+=====================ODNDOZ87?+~========??I7O?====+O=~=+::~=========888+============================
+==========================+D7?II+?=~==+~~?7$O8I+====+$=+:~,+=====$+7==8D============================
+===========================+DO$$77?++Z7?++~=I$OI======?I~~:,====8++?+OODD===========================
+================================88Z$?I$8DDI++=~+8$======O?~=::++=88O$=+DD===========================
+======================================+8D??ZI?===~Z=88++~OO+:,,:::::?8DD============================
+==========================================DO8ZII7+==I+$?Z+7$~~~,,:::+===============================
+============================================D8O$I?I+=?8,~:ZI87~:::,::===============================
+=============================================7ODI$$++7I?:::=78OII+~~+===============================
+==============================================?$88D+$O88::~~~=$8:+I+================================
+================================================ODDDNDOZ8Z88DD8D+===================================
+====================================================++==============================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+====================================================================================================
+-
+You start to complain loudly about the other professors and before you can say much
+are kicked out of his office. You quickly notice the matrix didn't keep up with this
+transition and failed to load the office properly, you fall out of reality.
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+                                                                        ...MMMO..                   
+                                                                      ..MMMMMMMMM$.                 
+                                                                     ..MMMMMMMMMMMM                 
+                                                                     .MMMMMMMMMMMMMM                
+                                                                      MMMMMMMMMMMMMM.               
+                                                                     .MMMMMMMMMMMMMM                
+                                                                  .  .MMMMMMMMMMMMM..            ..8
+                                                             ..MMMMMMM.MMMMMMMMMMM,             .MMD
+                                                             .MMMMMMMMMM MMMMMMMI.             .IMMD
+                                                             MMMMMMMMMMMMMI.. ..            .  .MMMD
+                                                           ZMMMMMMMMMMMMMMMM8         ..  MMMMMMMMMN
+                                                         .MMMMMMMMMMMMMMMMMMMMN... .ZMMMMMMMMMMM$...
+                                                       ..MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ .  .. ..
+                                                      .,MMMMMMMMMMMMMMMMMMM.+MMMMMMMO..         .:MN
+                                                    ..8MMMMMMMMMMMMMMMMMMMMM. ....               MMN
+                                                    .MMMMMMMMMMMMMMMMMMMMMMMMM..           .    .MMD
+                                                  . MMMMMMMMMMMMMMMMMMIMMMMMMMMI......:+MMMMMMMMMMMD
+                                                  ~MMMMMMMMMMMMMMMMMZ   .MMMMMMMMMMMMMMMMMMMMMMMMMMD
+                                                 DMMMMMMMMMMMMMMMM..      .MMMMMMMMMMMMMMMMMMMM.... 
+                                               .MMMMMMMMMMMMMMMM  .         .MMMMMMMMMMN.....       
+                                              .MMMMMMMMMMMMMMM .             ..MN,  ...             
+                                              MMMMMMMMMMMMMMI                                       
+                                             .MMMMMMMMMMMMMMM .                                     
+                                             DMMMMMMMMMMMMMMMM.                                     
+                                             MMMMMMM.MMMMMMMMMM.                                    
+                                           ..MMMMMM,  MMMMMMMMM$                                    
+                                           .MMMMMMM   .MMMMMMMMM.                                   
+                                            MMMMMM.    .MMMMMMMMM                                   
+                                          .MMMMMMM     ..MMMMMMMMM.                                 
+                                          .MMMMMM.      ..MMMMMMMM..                                
+                                         .$MMMMM,         .MMMMMMMM.                                
+                                         .MMMMMM.          .MMMMMMMM.                               
+                                         ~MMMMM..          .,MMMMMMMZ                               
+                                      . MMMMMM+             ..MMMMMM                                
+                                     .?MMMMMMM.             .$MMMMM.                                
+                                   ..NMMMMMMM               .MMMMM.                                 
+                                  .MMMMMMMM..              .MMMMMD.                                 
+                                . MMMMMMN                  .MMMMM .                                 
+                              ..MMMMMMI                    MMMMM.                                   
+                            ..DMMMMN.                      MMMM=                                    
+                            .MMMMM .                      MMMMM.                                    
+                           NMMMM..                      ..MMMM.                                     
+-
+She exlaims that this could more easily be handled by one of the other professors.
+she directs you to Glebe.
+ENDOFPROMPT
+Continue to Jeremy >12
+ENDOFPAGE
+
+
+
+                                                                                                    
+                                                                                                    
+                      ..,                                                .:~.                       
+                    .:~:~~.                   DDDDD8.                   ~~::::.                     
+                    :~=:~:.                 .DDDDDDDDDD.                .~=::::.                    
+                    .:::::.               .NDNDNNNNDDDD..               :::::~.                     
+                      ,::::.             ~DD~::::::~DDDDN              :::::.                       
+                       .::::.           .DDD::::::::DDDDD?            :::::.                        
+                        .:::::          DDD:::::::::DDDDD..         .:::::.                         
+                         .:::::.        DDD:::::::::~DDDDN         ::::::.                          
+                          .:::::.      .DDD:~:::::~::+DDDD        ::::::                            
+                            :::::.     ,DDD::::::::::::DDD.     .::::::.                            
+                            .:::::,.   :DDD::::::::::::DDD7.    :::::~.                             
+                             .::::::.:7IDDD::::::::~:::DD8777:.::::::                               
+                              .:::::~777DDD::::N88N::::DDD777:::::::                                
+                               .::::::7$DDDN~:::::::::NDD8$$::::::~.                                
+                                .::::::7DDDNNN:::::~NNDDD$$:::::::.                                 
+                               .7I:::::::DDDNNN====NNNDD8$:::::::77.                                
+                              .7777:::::::8D?..====.DDDZ$::::::~7777.                               
+                              7777$7::::::..D  ===.  .  ::::::~$$7777                               
+                             .777$$$?:::::     .=.      .:::::$$$$777.                              
+                             7777$$$$?:::       =        ~::~$$$$$7777                              
+                            .777$$$$$$~:.                .:~$$$$$$$777                              
+                            .777$$$$$$$~.                 :$$$$$$$$777.                             
+                            .777$$$$$$$$                  $$$$$$$$$777.                             
+                            .777$$$$$$$$.                ?$$$$$$$$$777.                             
+                            .777$$$$$$$$$$             .$$$$$$$$$$$777.                             
+                            .777$$$$$$$$$$.            $$$$$$$$$$$$777.                             
+                            .777$$$$$$$$$$.            $$$$$$$$$$$$777.                             
+                            .777$$$$$$$$$$.            Z$$$$$$$$$$$777.                             
+                          $$$$$7$$$$$$$$$$              $$$$$$$$$$$7$$$$Z.                          
+                       .$$$$$$$$$$$$$$$$$MMMMMM,$MMMMMMMM$$$$$$$$$$$$$$$$$$                         
+                     .$$$$$$$$$$$$$$$$$$$NNNNNNDNNNNNNNNN$$$$$$$$$$$$$$$$$$$$.                      
+                   ,$$$$$$$$$$$$$$$$$$$NNNNNNNNNNNNNNNNNNNN$$$$$$$$$$$$$$$$$$$$:                    
+                .ZZZZZZ$$$$$$$$$$$$$$$8NNNNNNNNNNNNNNNNNNNN$$$$$$$$$$$$$$$$$ZZZZZZ.                 
+               .ZZZZZZZZZ$$$$$$$$$$$$$NNNNNNNNNNNNNNNNNNNNN$$$$$$$$$$$$$$$ZZZZZZZZZ.                
+               ZZZZZZZZZZZ$$$$$$$$$$$$NNNNNNNNNNNNNNNN=MNNND$$$$$$$$$$$$$ZZZZZZZZZZZ                
+               ZZZZ$$$$$ZZZ$$$$$$$$OOONNN::::DNNNNNN::::::NNOOOO$$$$$$$$ZZZZ$$$$ZZZZ.               
+               ZZ$$$$$$$$$ZZ$$$$$OOOOOON:::::~NNNN=::::::MMOOOOOOZ$$$$$ZZ$$$$$$$$ZZZ                
+               ZZ$$$$$$$$$$Z$$$$OOOOOOO:::::::MMMM:::::::MOOOOOOOOO$$$$Z$$$$$$$$$$ZZ                
+               ,Z$$$$$$$$$$$Z$OOOOOOOOO:::::~OOOO8::::::OOOOOOOOOOOOO$Z$$$$$$$$$$$ZZ                
+                Z$$$$$$$$$$$Z7777777777::::::7777~:::::777777777777777Z$$$$$$$$$$$Z.                
+                .$$$$$$$$$$$$7777777777:::::~7777::::::777777777777777$$$$$$$$$$$Z,                 
+                 Z$$$$$$$$$$$Z777777777~::::77777:::::777777777777777Z$$$$$$$$$$7Z                  
+                  Z$$$$$$$$$$Z777777777:::::7777~:::::777777777777777Z$$$$$$$$$$Z                   
+                  .$$$$$$$$$$Z77777777+:::::7777::::::777777777777777Z$$$$$$$$$$                    
+                   .$$$$$$$$$Z77777777::::::777::::::7777777777777777Z$$$$$$$$$.                    
+                    .$$$$$$$$Z77777777::::::777::::::77777777777777777$$$$$$$$.                     
+                     .$$$$$$$$77777777::::::777:::::+7777777777777777$$$$$$$$.                      
+                      .$$$$$$$77777777:::::777::::::77777777777777777$$$$$$$.                       
+                        $$$$$$77777777:::::777:::::777777777777777777$$$$$$                         
+                        .$$$$Z77777777::::=777:::::777777777777777777$$$$Z.                         
+                          ZZZZZZZZZZZZ::::ZZZZ::::ZZZZZZZZZZZZZZZZZZZZZZZ                           
+                          ZZZZZZZZZZZZ:::~ZZZ::::~ZZZZZZZZZZZZZZZZZZZZZZZ                           
+                           8888888.  .:::.   ::::               88888888                            
+                                     ,:::   .::::                                                   
+                                    .::::   ::::.                                                   
+                                    $::::  .~:::,                                                   
+                                    $:::$   $I$$                                                    
+                                    ~$$$.   $$$.                                                    
+                                     .$.                                                            
+                                                                                                  
+She stops what she is working on and starts to ask you what has you so stressed out.
+She takes the time to calm you down and tries to get you to relax. She reaches in her
+mini-fridge and pulls out a drink. You feel calm and at rest.
+You got the Mama-Johnson ending!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+                                                                        ...MMMO..                   
+                                                                      ..MMMMMMMMM$.                 
+                                                                     ..MMMMMMMMMMMM                 
+                                                                     .MMMMMMMMMMMMMM                
+                                                                      MMMMMMMMMMMMMM.               
+                                                                     .MMMMMMMMMMMMMM                
+                                                                  .  .MMMMMMMMMMMMM..            ..8
+                                                             ..MMMMMMM.MMMMMMMMMMM,             .MMD
+                                                             .MMMMMMMMMM MMMMMMMI.             .IMMD
+                                                             MMMMMMMMMMMMMI.. ..            .  .MMMD
+                                                           ZMMMMMMMMMMMMMMMM8         ..  MMMMMMMMMN
+                                                         .MMMMMMMMMMMMMMMMMMMMN... .ZMMMMMMMMMMM$...
+                                                       ..MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZ .  .. ..
+                                                      .,MMMMMMMMMMMMMMMMMMM.+MMMMMMMO..         .:MN
+                                                    ..8MMMMMMMMMMMMMMMMMMMMM. ....               MMN
+                                                    .MMMMMMMMMMMMMMMMMMMMMMMMM..           .    .MMD
+                                                  . MMMMMMMMMMMMMMMMMMIMMMMMMMMI......:+MMMMMMMMMMMD
+                                                  ~MMMMMMMMMMMMMMMMMZ   .MMMMMMMMMMMMMMMMMMMMMMMMMMD
+                                                 DMMMMMMMMMMMMMMMM..      .MMMMMMMMMMMMMMMMMMMM.... 
+                                               .MMMMMMMMMMMMMMMM  .         .MMMMMMMMMMN.....       
+                                              .MMMMMMMMMMMMMMM .             ..MN,  ...             
+                                              MMMMMMMMMMMMMMI                                       
+                                             .MMMMMMMMMMMMMMM .                                     
+                                             DMMMMMMMMMMMMMMMM.                                     
+                                             MMMMMMM.MMMMMMMMMM.                                    
+                                           ..MMMMMM,  MMMMMMMMM$                                    
+                                           .MMMMMMM   .MMMMMMMMM.                                   
+                                            MMMMMM.    .MMMMMMMMM                                   
+                                          .MMMMMMM     ..MMMMMMMMM.                                 
+                                          .MMMMMM.      ..MMMMMMMM..                                
+                                         .$MMMMM,         .MMMMMMMM.                                
+                                         .MMMMMM.          .MMMMMMMM.                               
+                                         ~MMMMM..          .,MMMMMMMZ                               
+                                      . MMMMMM+             ..MMMMMM                                
+                                     .?MMMMMMM.             .$MMMMM.                                
+                                   ..NMMMMMMM               .MMMMM.                                 
+                                  .MMMMMMMM..              .MMMMMD.                                 
+                                . MMMMMMN                  .MMMMM .                                 
+                              ..MMMMMMI                    MMMMM.                                   
+                            ..DMMMMN.                      MMMM=                                    
+                            .MMMMM .                      MMMMM.                                    
+                           NMMMM..                      ..MMMM.                                     
+-
+She exlaims that this could more easily be handled by one of the other professors.
+she directs you to Griffin.
+ENDOFPROMPT
+Continue to Grffin >14
+ENDOFPAGE
+
+
+8ZDNMM?++?+MMMMMMMMM=======MMMO7$ZZ==N======+++M=MMMMMMMMZ??II?III????+ZZMMMM++??+??OOZZNMMMMMMMMMMM
+MMMMMMM+++++MMMMMMMMM=====8MMM8Z$ZO==MZ=========:MMMMMMMMM?I??I???I?+?+NMMMM++++++OOOO$8DNMMMMMMMMMM
+MMMMMMMO+++++ZMMMMMMMM====MMMMMZZOOD==DM===========MMMMMMMM?I???I?+??++=MMMM++++=8ZOOZOODNMMMMMMMMM+
+MMMMMMMMMM+=====MMMMMM====~MMMMMDOOO8Z=DMMZ=======+++++7NN8M7?II???+++++NMMI+=+=OZ$ZZZ7ODMMMMMMMMMM?
+MMMMMMMMMMMMMMM+==MMMMI======MMMD8O8888N=+DMMM8+=+=+++++???OD88~??+++++==MMZ====8OZ:$ZZ8DDDMMMMMMM??
+=MMMMMMMMMMMMMMMO==MMM========NMMD88O88NDNMMMMMMM$++?+MO????II88ZZZNM++++=MN==+=7$77Z$$ONDMMMMMMI???
++~MMMMMMMMMMMMMMM8==M=========MMMM88O88OD+==+=8MMM++++?~D887IIIZOZ8MNOND===NII===~77+=OZZO8MMN+??+??
+++MMMMMMMMMMMMMMMMM=========MMMMMMD8ND?=$OZ$$++++MO+??N??O8DMII~8ZDDDNMMZD===D88ZZZZ$Z7,~Z==+++++?++
+++MMMMMMMMMMMMMM========+8MMMMMMMMMDNMMD8O777+??+?????8OI8MMMNII$8NDMMMMM=O===DZZO$$$=========++++++
++7MMMMMMMMMMMM+==+=++++=O8+MMDNMMMMMMD++ZIIZO7?+??+?I887I8DN8Z7IZZODMMMMN++===~ODO==============++=I
++MMMMMNNDMMMMM++++++++ZD+MMI$MMMMMMMND+O8$ZO8Z??????+8O=?O8OZ$7$$$Z8MNNM?+~+==~NO========I.=8D88NNNM
++MMMMMD+=MMMMM++++++?++?O???=ZMMMMMMMMO+DO887?+++++?8ZZ+ZZZ7$77IIZ$ZZ$M???++++M8===M$$ZOZ?IZ88NMNMMM
+??MMMMMM+=MMMN+????+?7??MNN?IIOMMMMMMMN$O.ZZ++++++Z Z+~I7$$77$Z$$ZOZZ8???++++8O=+MMN==ZZOOZO8NMMMMMM
+$??MMMMMM?+MMMMZ????I?IIMMMMMMI+MMMMMMNDO$7=+===$$===$$7I$$7=7I7ZZ$I7?II?IIMNZM=+MZ=MNDZOO7ONMMMMMMM
+MMM+MMMMM????$D8$7I??I?I7MMMMMM7MMMMMMMMDO$======8DIZ$$$I+===+?II77$77OMMMNND?MM7D++MN88ZZNNMMMMMMMM
+MMMMNN7MN8IIIIIII??IIIIII7MMMNNNMMMMMMMNDD8==DZ7ZNDIZZ$==IZI+$Z$$$NO$ZMMMMDNN?OMMM===D$8$OZMMMMMMMMM
+NDDDNMMMD$7ZI7III7IIIII???I~DO8D8ZNNNMO=I+D=====OD$7I+=OOZOZOZOZ$ZMOZZDNNMMN??MMMMM=+==OZMMMMMMMMMMM
+NMNMMMMMMNDZZOIIIIIIO$O$7?I??77ZOO7D8OZNZDMN=O8==DO8Z=ZOZO8ZZ77=:I,DD~I88MMMMMMDMMM+===~O8MMMMMMMMMM
++DMMMMDDNNMM88OZZ7II?ZOO88$+?7I7OZZZDDDZ$ZDOM+$8?DZ7$=OZZZ$7~8==+8+?=,:=O$NMMMNM8?+?+++OZMNMMMMMMMMM
+==~OMMDM8DDNDNZZZ$$?+?MDD8O++I+=7ZZ77~,=++?++8Z$Z88OZ=$Z$$?8~~~==+Z===,,,=$OZIDMI???+Z88OOMMMMMMMMMM
++++=NMMD8NMMN8OZOZMM++?N$$++?ZZ$$Z$,,::,+?=$=I=7Z8OOZ77ZI,I~??I$7Z++O7===~=$?DMMMZN8DOOZ$OMMMMMMMMMM
+==++~O8OD88OZZ$O8NMM+++MI+=8OZ$ZZ$::::::=++=~~$8,?II7I=?~778=+:,?=::+,7?+++778?ONMMNNO$Z$$OMMMMMMO==
+???II88D8OZ$$$ZZ7NMMI+MZ=D88OOOZ$IO,::::?~,?+=+?=+:++++=OM++::,,=:::+:++877777?+$8D8$$$OO8DMMMMM====
+8?I?I?888OZZ?$7+IOMM+MM=ZD8D8OOOZI.::::,.:+7+MO~+~I$$777D+,::7:I::::::+=I+=++$7O+:II?=O=?NMMMM+=====
+DDN7I78D8OZZ$7$$??7+MOMM=ZOD8OO$ZI+?,~:==DNNO+=+=~I?+7++=+::,,,=,,,,,O=+++++++=D7D7Z~OM$DOO$MD==NMM+
+7?MMIII8OO$ZZZ$O$$+$OOZZO+ZOOZ==II~I,I~=O.~DMD+O===++=+~:?7:,......~+=,~=I7++7++7787=ZZDO7$ZO=MMMMMM
+777I8I?8OZZZIZZON8++ ZOOOZZZ7?:?I=8?,8DMZ..N7~I7~+++N::,,,~+Z:,....=,..,,+====+++7777+=~II?7Z8NMMMMM
+MM?+7+?Z$$$Z$I$+?$OO$I?ZZ$,+ .:::+=NM.,$.,=....+7+7=:....:::=+=D:.:....,,.~,,==++I77O7?==+=ZMMMNMMMM
+IMNN+++I~I$$I?7~I?++$$7$I:.~::,+++=:$=:..,7Z$O$$+7$,...,,~:::++++M+7?++=78...,=7,....O++?7ODMNNNNMMM
++MND8=++IIIIII7~I:?~?77~:OI+:=+Z?+=O=~...:=.+?$=D=,..,,,+=:::=N~I77+D$+::::+...:?:::::..IIZ8NDN$NNMM
+DN88OZ++?=$7$I??I+~+,=~$.8::=I..,,,+=Z.I.8I....~$~..:,,=.??::Z7777:::~8+M:.:M::::+:::::::.:ZDNDO$MNM
+DDOZZ$++?II?Z$?7??+~+??,::::....,:N+=+Z=......,=8,.,,$.IZ,=:=N7+=,::::+7D::.,M::,,7,,+:::::ZI8DD8ONN
+OOOOZ$77IIII77???,+,++ ::::,.,,,O~::,I+++,....:Z=,,,,::::$:++7::? ,:::,::::..$:,,:,,,,,,,+~:.$DNNNNM
+Z=ZZ$$$$IZ87777?7II+:~.:::,,.+++::::=,=:~O,,.=8+==~,,,:::::OO..,:= :,:+N?::,.+7===:,,:+=O?,,,7DNNONN
+=$$777$$Z$$$$:?+,~,~++ ::7,,7:=,~+=,?,::::7,=I=I..,,,,,,,:+O,...::+:,.::++:::O++II?77$7?~,,,,7DDDDDD
+=$$$$+II?II$$$=II=?:=+~:+=,,,~:~~.,,,,::+=Z78~..,,,,,,,,,+MM:., .,=,:,7D:::::++++++==~~,,,,+:8DDDDDD
+==$$$$$$I???+I~=??III++O==,,:+II..,,,,,:::::O~:~=========+$=M:,::+:+?+::,,~+++++==~:,,,,:=$I8DDDDDDD
+===+$ZODDOOO$Z+II=I7$?,:7O,N++D...,,,,::::::+7Z8D88DDD8Z$7N?=+=NZ~,D=,::7IZ=7++++======Z7?=$888DDD8O
+===+?IZ888DDDDOI?ZZ?II~,$+=,:=7.....,,,::===....,:::::...:++?=++I+=++=+?I+M7+++I$$$777I?:=ZO8DD88DDN
+==++?I777778O??++IZZZI,,+N..,==:.,~:,::++,.,::O+++++++$=~:=+7$+7Z++++++Z:=:7=====++I?+~$+Z8DDDDDDDDD
+$$$8DNND7I???++++OZZ$+,::,..,=+++:+::+=,:::I++?,.=7++77++7++?77777777N?$7$I7?,Z=~~~~~$,=$O8D$IINDNDZ
+==+DDDNNNNNNDD88O7~$I~,,?...,,+77I=MM:::::...,Z,,=~+++$7+++++++77777O?$7??$ZZZ$$I+=~+++I7ZI7ZZZOOZOO
+=++?=ODNNNNDDOZ8O?=+=~,+$...,=I+7+=:::=,+,...,,::~:I+++++++++++777I7:+=Z7++==~ZZ$$$$$$$$II7II???+?++
+88++IZO8DDD$ZO8$7$+=,.$,.O..,:,?++D:::,$+:+,.,,+,::7Z77++++?+==I~,+ND:,:~~===IZZ$ZZZ7$77IIIII???+++=
+DD??7O$+~=77$+++??+7Z....,$.,::=+++7,:++:.:::+=:+=.,:~++7++?+Z=,8$Z88:.,?~?7======7Z$II77II????+++==
+NN+?I8ZOOOZZ$?:O:=,=,....,+D+,:::+I7+D.:..,:+:.,::..::++7?++NZ$I$ZN7+.~:=+++?7====+?IIIII???ZNNN88+=
+NNDI7888DD8OI~::+.+,....::7==IO777=7....:..::?:::~:.:~=NZZ$III$?,7::+=IIIIII?8~I$++?III7I7ZO8DDDDNND
+NNND87$?777M77=,,N.:,,,:,,,,~~?7O.,.=....N:::+Z+ZDOZZZZ7IID..8..,,D????777$$ZZ$7:+$778II?OZO888DNNNN
+NMNDD8OO87$,?Z7D,Z++:::::,,,~==7:I$+=....7$$7IIIIIO..:..? .Z..NDNII??????777$$ZZ$7+7O8OIIIOODD88DNNM
+MNMNDNN87N+,.,$++D=?8=++,===+=87.I$7,.~........,~:.$?$ .88DZMOZOII????????777$$ZZZ7~$$O8?O=ZOD8O8OOD
+OODMMNDZI~::?::==ZM+N+++I++++?D~+II7$7,,..:...:M8O.N=..OZ$8?ZZ$OII?????????77$$$ZZZ7+$OO++?+~8DD8ZZ8
+OODDNM8Z$?7:7,,:::+N7$+++=$+=:=7??+?I+~,.~77788ZM..8$$I..ZDOZIOIII??????????$$$$$ZZZZ7Z?Z$$++~NDDNNN
+ZO8NND8O8DO=:7,::.,?NZZNO:~=~==:::~77OOZZ7777ZD.=.N$?Z$M.NONN$DII$I??????????$$$$ZZZ8=+$$$Z+++88NNNM
+OOODD8O8NMMZ,=,,7?=:+?+=~=$?????I$IIIIII7ZDOZ..=.,ZI7OM.,.ON7OZ7I$II????????II$$ZZZZON~?OO8$==+NMDNM
+ZOZOOOZZOOZ$$I?:~7I77?,I????????7?IIIIII77I.....,DZO8Z..:.ZD7OZ77IZIIII????III$ZZZZZZDD+ZDDO++++N8D=
+OD888777I$OZZZ$$$ZZI+8I?????????7?7IIIII7I.....,:DZODO.::.DN$ZO777IZ7IIIIIIIIIZZZZZZZ8D~IZ88======NM
+MMNND8OZ$8NN====:~$+DII??????????$IDIIZ77,..~...,N$7D.,. OD8OOD7IZI$ZZIIIIIIIIZZZOZZNZO:IZO8++=+====
+MMNMD888DNNMIO$7=II=IIIII?????IIIIIIN$8$N777Z8ZM.,O77.NZZZO7OONZIIOIZOZIIIII77ZZOOZODZZO?ZO8========
+MMMMMN888OMMMZ7I=~,777IIIIIIIIIIOI777ZZD$77777ZZONZI$$$IIZZ7ZZDD7IIDIZDZO7777OZZOOODZZDZ8IZ8MM++====
+NMMMMNDD8D88DN77?+777$IIIIIIIIIIZ87777ODZ7777OIOZZNZ$IIDIZOII$ZDZ7IINIZDNZZIZOOOOZDOIZMOZMZMMMMMMMMM
+MMMMMD8OOOOO+$ZII:777IZ7IIII77777O777$7ZDZO777OZOZNODOZZZOOOII7ZDZZI$ZIZZNDOOZOZODDZIZZOOO7DMMMMMMMM
+MMMMD8Z$7$Z7IZ77?~77778O77777777$O77Z7Z78OZZ8OZZZZM88NDD8DMMDII?ZNZZI$ZI$ZZMDDDDDD$IZZODOZZ+NNMMMMMM
+MMM88OZ77~,77$$7?=87777ZOZ777777O877OZ7ODOOND8$Z8DNDN:7~7$$$I,?II$OOZ7ZZNZZZOMDDDDIIZZZDIZZ+DNMMMMMM
+MMMNZZZZ$?II77$77+=?777DOOZO7ZOO8DD7$87OZDMD8888N~?7$$7$ZOZZZ+IO7I$ZMOZZZZ8OO8DDDZIZZ88IZZMOMMMMMNMM
+++===++++?I7I77ZZ7+~?7IINDD888DDDN7OZ8IN8~?+::??$ZZZOZ7$Z+OOZ?IIIDZIZZMDZZ8NDDDDZ?$ZD8IIZZ+8MMMMMMMN
+++++=++++?DDO$O77I?+I87ZIII$NNNNI7DZZIIZ:7$O8Z$7Z88OOOZZO==8ZIDIII$ZDZZZDNDDDDMZI$MDMII$Z~NMMMMMMMMM
+======?O$$$OO7ZZ$77=DZN7ZZ7II7OO$ZD8NIZZ~$O8?=ZZ$OO8OOOOO7===OI=IIIIZZONO8DNDMZ$ZMZOOZZZMOMMMMMMMMMM
+==+MNN$Z$7OO$$?$$$77DIZZD7OO8O7MZ8DI$ZZ~7O88NN==+OO8O8OOODD===$7?~DIIIIZZZ$Z8ZZZ8DDD888M$MMMMMMMMMMM
+NNDMMNDDO8$$?7$$ZZII=?I7$Z$Z77NZZOZZZ:?ODDMMM8$=++$ON8OOODDD+ZO7$MO778?II$8DDOMOO8NDD7NZMMMMMMMMMMMM
+NNMNMMMNOO?$$$7????$OO$=:=$NMZZO8ZN8$$DDDNMMMN7+?D+ZZOO8D8DO88??IOM8888$I+8DDDNND?+++777NMM7MMDM?DMM
+MMM$=========++=+.$ZMM$O7Z~+8N8?==8IDI$DZNMMN$III$ZZZ8ZOO8D8IIIZMOM88MMMN?:$:::IM::~~~I88M?MM=MMN+MN
+M===========777:+ $NN++NO+::::::,,~=+O?8DIII77I77NNDDZ$77ZN77I=DN8NMMMMMM7:8:7,:::,,,:~ION+8NMM?MMM7
+==========8D$$7.I+===8?IMON=::::,,=MDNM??IIII7ZON$$$O$7ZOZZ777+OMMMMMMMMM?,,,::=D88DDD~=7?8++=Z8++++
+=========ODDZ7+===OZ+.$++++$ODM88DMDDNM????I?MONNMDZ7888O8O77I7DD8M8NMMZO+,,,N?7ZO888DDDIM7Z?====+++
+===+D===Z888Z====$I,Z++==+$O8888NN~:D:$+++++?Z8O8MMDM8NDDN8Z777IMDD8OMMDZI8M8$Z8D8$888DDDNM$7+=+===+
+==ND8==$OOO$8===$787+=+$ZO8888.,I?O7.$7?++++++8DNNNMMMOOMMMMMIIII??+MMMMD?8OO8DO7+ZO888DDDD~DNDD8D7=
+=MND8==O88ZZ8====Z:NOO8MI...N~$N=MM8ZZ$OZ++=+++=88MM+NMNMMM7MMMMI????++$M$N88MO++++Z888DDD8DDMMMMD88
+ZONZN==ND88DD?===D8?=++?7IZNMMM=MMM8DDOZOZ?++=======NMMMMMMMIMMMM??+++++OD8+88?++++$O88DDDOODMMMND88
+MZNMMN==8MNDNN==+?:DNDNMNNMMMMM=MM88M8ND.Z +++==DD88DMMMMZMMO8MMM?+++====M8+.M$+++=+$O8DDD,7NMMMMMMD
+D7ZNMMMM8~NMMNM$+???+DNMMMMMMMMMMD+MI?MDMDZ?+++++8ZZNMMM MMM?8MMM+++++===MM87=  NO?++O8DM:=NMMMMMMMM
+NODMMMMMMMMMMMMMM?++====7MMMMMMMMMMMN77MMMMZ?++++=888MMMMMM??MMM?+++====Z=MND===M....+.~,7NMMMMMMMMM
+D$MMMMMMMMMMMDMMOM$========MMMMMMMMMZ7$MMMMI???++=NMNMMMM+??MM?++++=+=====~MM===~$I~=+?$ZZI+=====+==
+NMMMMMMMMMMMMMMIDMM========~MMMMMMMZ77$MMMIMIIIII????+++????I???+++========MMM====NMMMNMM+=====++=++
+=MMMMMMMMMMMMMMMM7N========+NMMMMM77$7MMM$77777II7IIII?IIIIII??+++=+=I=====NMMM=====+MMMMMMM8+=+++=+
+=~MMMMMMMMMMMMMMMMM========+MMM77777?MMD$$I$$$7$$$7I7IIIIIIII????++=MM=====$MMMM=======7MMMMMMMNMMD?
+===MMMMMMMMMMMMMMM=====+=+??I77I7$IMMMM$$$$7$$7I7$I77I77777I7I?+?+MMM$++==+MMMMMM========++~MMMMMMMM
+-
+You call Griffin by his first name. He fill with anger and his muscles bulge with
+computer science as he calls your destructor cleanly erasing you from memory.
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+NDDDDNNNDDN8DDDNNNNNNNNDDD8OOOOOOZZZZ$777III????IIIII7777777$$$777$ZZZZZZZZZZZZZOOOOO8OO888DDDDDDDD8
+NNNDNNNNNNNDDDDDNNNNNDDD8OOOOOZZZ77777??I?++++++??I??IIII7777II???I7$$$$ZZZ$ZZZZZOZZ88OOOO88DDNNDDDD
+NNNNNNNNNNDDD8DNDNNDDD8888OZZ$$77I7III??++++++++=+???????III+=??++II7$$$$$Z$$ZZZZZZZO8OO88888DNNNNND
+NNNNNNDNNDD888DNNDDD88OOOO$$77II??++++++=======~=++????+?++==~~=+III7$$ZZZZ$$$ZZZ$$ZOOOO8O8DDDNNNNMN
+NNNNDNDDDNNNDDDNDDDD8OOZZ$7III?++=~~~~====+++++??IIIIIIII??+=~==++?7?$$$$$Z$Z$ZZ$$IZOOOOO8DDDNNMNNMM
+MMMNNNNNNNNNNDDDDD8OOOO$7II++=+~~~::::~=~~==+IIIIIII7777I?III+=++++I77$$$$$$ZZZZ$$ZZOOOOOODDDNNMNMMM
+MMNDNNNNNNNNNDDDD88OOZ7II?++++===~~:::=~~===~=?I7I7777$7I7IIIII????I+I??I7$ZZZZZZ$ZZOOOOOO8DNNMMMNMM
+MMNNNNNNNNNDDNDD888OZ7II??++++=+====~=+++??I??+?77I77$7I777IIIII?I??I?I?=+?I$ZZZ$$ZZZZZOOO8DNNMMMNMM
+MMNNNNNNNNNNNDDDD8OZ7I???++++==?+++++???II7$$7$$777I$$$7$$I77III7III?I?I++=?I$ZZ$ZZZZZ:ZO8DNNNNMMNMM
+MMMNNNMNNNNNNDD88OZ7??++++++=+?????????III??7?I777II777$77$7$I77$$777II?++++?7$ZZZZ$Z$ZZODNNNNNMNNMM
+MMMMNNNNNNNNND8ZZ$I???++?????????III?+=+I?+I+?II$7OI$?Z$7Z$$7777$$OZ$7II?+???7$$$Z$$$$ZO8DNNNMMNNNMM
+MNMMMNNDDNNN8OZZ$7??+++??I??IIIIIII?+I??==+II$$Z$OZO7Z7I$ZI7I7$$$$ZOZ$7777I??I7Z$$$$$ZO8NNNNNNNNNNMM
+MMMMNNDDDNNDOZ$$$7?++???II??IIIII7I?++??~I$IZ8DNNNNNDD8ZZI?$7$$$77$ZZ$$77$7?+?I7$7$$ZO8DDNNNNNNNNNMM
+MMMMNNNDNNDOZZ$$7I++?IIIIIII7IIII$I?+?==?I7OZNMMMMMMNN88OZ?7777$Z7$ZZZ$$777?++7II7$$ZO88NNNNNNINNNNM
+MMMMMNNNNDOO$Z$$I?+?I777II77777I$$?7+=~7778NNMMMMMMMMMDDD8$?$Z$$$Z$$ZZZ$777II+III77ZZO8DNNNNNNDDDNNN
+MMMMMMNNND8OZ$7II+?I777III777777$$I+??=I$$$8MMMMMMMMMMMNDO8$7O$$$77$ZZZ$$7$7I=+777$$Z8DDNNNDDDDDDNNN
+MMMMMMNNND8Z$$7II?I777777I7777$$$ZZ7I+~7877DMMMMMMMMMMND8Z8O?Z$$77$ZZZ$$77777=+?77$ZO8DDDNNDDD888DNN
+MMMMMNNN8OZZ$77II?I7777IIIII7$Z$ZZZ$I7?Z8$?$DMMMMMMMMMNNDZ?+?8ZZZ$7$Z$7777$77=+??7$$O8DDNNNDD8888DNN
+MMMNNNNN8OZZ$777I?III7I?????7$ZZZZO7I?7$?$ZZ78NMMMMNND8DO$+$OO$$Z$Z$Z7II77777==+I7$ZOO8NNNDDD888DDNN
+MMNNNNNDOZZZ$$7II+??7III?+??I$ZOZZZ$IZO$7?Z8Z$ZNNDDD8OD?$I?$O$$$$7$$7??77777I=+?I$$ZZO8NNNDD888DDDNN
+MNNNNNNDOZZZ$77II+?I777III?++7$Z$Z$ZZ$Z$I?I7I$7NZ8$O$I8?$$$$ZZZZ$Z$7??II7777++?I$$$ZZO8DNNDD888DDDNN
+MMMNNNND8OZZ$$77??=I7$777I????I$$ZZZZZ7ZI777$$I$77$87Z$77OOZOZZZZZ$$?+I777I?++I$$$ZZOO8DDDD8888DDNNN
+NNNNNND8OOZZZZ$7I?++7777II?I?++I$OZ$7$Z7$Z$$$I$ZZZI7$OOZZ$ZOO$ZZZZZ77II77II?+77$$ZZZOOODDDD8888DDNZN
+NNNDDDD8OOZZZZZ$7I?+I7$77I?II?++I$ZOZZ$$Z$ZZ$$ZZZZ$$OZZ$I7$ZOOOZ$$7$7I77I77??77$ZZOOO8DDDD88888DDNNN
+DNDDD888OOZZZ$Z$77I+=7$$777I??++??7ZOOZZ$$$Z$$$$$$7$$7$$$$ZZZZZ$$77$77I7III+77$$$ZOO8DDDD888888DDNNN
+DDDD88OOOOOZZZZ$$7$I+?II777II?I?++?I$ZOZZZZ$$$77777$IZZ$ZZZZ$$$$Z7777?IIII?I7$$$ZOO88DDD8888888DDNNN
+88DDD88OOOOOZOOZZ$$7I++I777IIII???+??7$$ZO$ZZZZ$Z$ZZ$ZZZZZ$$7$$77II???II7$7$$$$$ZZO8DDD888OOO8DDNNNN
+888888OOOOOOOOOZOOZ$$I??I7IIII?III?+=?I7$Z$$ZZZZZZZ$ZZZZ$$7777IIII?????I77$ZZ$ZZZO888888OOO88DDDNNNN
+88888OOOOOO8OOOZOZOZZ7I??I???I?IIIII7????I77777$7I7$7777IIIIII?????+++I7$$$ZZZZZZO88888OOO88DDDNNNNN
+888OOOOOOOOOOOOOOZZZZZ7?I??++???II??I??????I?I777II7IIIIIIIII?+=++++?I7$$ZOOOOZZO888O888888DDDDDNNNN
+88OOOOOOOOOOOOOOZZZOZZZ77?????I?I????+++???+??IIII?II?IIIII??+====??7$$ZZOOOO8OOOOOOOO88DDDDNNNNNNNN
+88OOOOOOOOOOOOOOOZOZZ$Z$$$II?++I7I7?++=+==++??II?I?II?IIII++====+?I$ZOZZOO888OOOOOOOO88DDNNNNNNNNNNN
+888OOOOOOOOOOOOOOOZZZZZZZZ$777II$777?++====+?III?????II???+===+?I7$ZZOOOO8OOOOOOOZOO8DDDDDNNNNDDNNNN
+888OO8OOOOOZOOOOOOOOZZZZZZZZZ$7$7777III=++++?????+????+++++++?I7ZZZO8O8888OOOOOOOO888DDNNNNNNNNNNNNN
+88OOOOOOOOOOOOOOOOOOOOOZZZZZZ$$$7777II????+???++?+???+?????I7$ZZOOOOO8888OOOOZZOO888DDDDDNNNNNNNNNND
+888OOOOOOOOOOOOOOOOOOOOOOZZZZZ$$$777III?III???????IIIIIIII$$ZOOOO8O8888888OOZZOO888DDDDDNDNNNNNNNNND
+-
+You get him going about the deeper concepts of computer science and once you get him
+going he can't be stopped, the room spins as he exsplins the cosmos of computer science
+you slowly start to understand and jump ten levels in computer science (+10 to cs).
+You got the Cosmos ending!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
+
+
+ .                    ,.                              .             .                   .  .       .
+ ,                  . ..          .                     .                     .          .          
+                     .                                    .                                         
+               .............................................................,,,,,:~. .              
+               ++~++++$$I$IDMZMMMMMMMMM~MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:,               
+               +=+O88DDDDNMMMMMMMMMMD=MMMDD888888OOOOO8O8888888DNNDDD8OOZZ$777I78MM...              
+             . I+=OO888DDNNMMMMMNNDDMMMN8ZZZ$$777$O7$IIIII7$$ZZZDNNDDD8OOOZ$$7778MM.   .            
+               7+?ZZOO88DDDNMMMMN8OOZ8M$II?+==+++===?D$==~==+++?IMNNDDD88OOOZ$?I8MM      .          
+               $+?ZZZOO88DDDNMMNOOD$7ZO?++=~~~==I88$7I8Z=~~~~~~=?MMNNDDD888OO++ZMMM.                
+   .           $I?Z$$ZZZO8DDDNNZZZ7I77?+=~~~~~~=+NMD:Z$I7I==~:~=?MMMNNDDD87888OOMMM.             .  
+    :,:.       87$$$7$$ZZO8DDNN777$I7++==~~~~~~~~??+?87+=~=+====MMMMMNN$?8?88888MMM.          .     
+    :::        NNMZ$IZ$ZZZO8DDD7I??7$+=~::::::::~=++:~~~::+8O$7=MMMM=,:?OD888888MMM,                
+        .      NNMOZIZZZZZZOO87IIII$+=~~::::::::::::::::::NM8NODMMMN=~~N+~:88888MMM,                
+          .    NMM8Z$ZZZZZZZZZI?I?O?==~~:::::::::::::~~:~:IM~DNMMM:~?~:M?~~D8888MMM,      .         
+            .  NMMDO8OZZZZZ$$?????I?=~=:::::::::::~==~:~:,II7MMMM~=~Z=:MN=~D8888MMM,    .           
+              .NMMD8D8OOZZZ$?++??I+=~~~~::::::::~=~+:,::,:~IMMMMM?~~M~~:M=~DD888MMM:                
+               MMMDDND8OOZZ$??++??==~~::~::::~~~~~~=~~Z~::=IMOMMM?+~M=~:M=~=DD88MMM=:.              
+               MMONNDND88OZZ??+++?==~~:::::~~~~+~=~=~~=Z7=?7NOMMM?=~N=~:M+==ND88MMM=,               
+              .MMMMMMNNND8OO???++?==~~~~:~:~~~:~~~~~:+=+=+INMMNNN++~:=~:D++=MNDIMMM:                
+          .    MMMMMMNDDDD88I???++?+=~=~:::=~~~+ZI??+?=++?NMNNNNN8+=:I==++==MMN7MMM,               ,
+         ....  MMM8MMMNMNND8$II????+==~:~~===~~~?=????+=+IZO8DNNDN=~:D=~?+++MM77MMM:               ,
+  .     .      MMMDMMMMDNMNDD7III???++~~~:~~==~~=+~=++==?I$$88NMMD+~~D=~~==+II7$MMM,            .,  
+        ,      MMMNDDNN8DMMNN=77II???++=~:::~~==+II?=++??I7$O8DDNN?=~~~=?=+??I7$MMM,         . .. . 
+    ,...       MMMMN88O8NMMM:D$$777II??I==~~~=~=+77$II7?I7ZZOO8DNN?=====?~?II$$ZMMM.          .     
+ ..... .       MMMMM88ODMM+MMMNN$$7$777III+==+++?I7MD7777ZZOO88DDDI+++++?I77$$ZOMMM.        .    .  
+..       .     MMMMMMNDMMMMMMMMNNDZ$$$$777$ZIII?IMMMN8OOO8888DDDNN?=++?III7$ZZOOMMM.     .,         
+.          .   MMMMMMMMMMMMMMMMMNNDD88OOZZZZZOO8DNMMMD8I?I8DDDDNMM?++??I77$ZZO88MMM    ...          
+             . MMMMMMMMMMMMMMMMMMMNDD888OOOZZZOO8DNNMD7????+++8NN7++??I7$$ZOO88DMMM.                
+               MMMMMMMMM88O888888888DMMMMMMMMMMMMMMMMMMMD8888DO=D888OOOOOOOOOOO88ZO. .              
+               M?MMMMMNNNNNNNNNNNNNMMMNMMMMMMMMMMMMMMMMMMMMM~Z?MMMMMMMMMMMMMOOOOOOO.                
+               MMMMNNNNNNNNNNNMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNND888DDDDD  .              
+               MMNDDDDDDDDDDDDDDDDDNNNNNNNNNNMMMMMMMMNNNNNNNNNNNNNDDDDDDDD888888888.   .            
+                     .             ....... ..MMMMMMMM        ......   .       ,                     
+                 .      .     ....     .     MMNMMN:M. .     .  .   . ..   . .     .                
+   .          $MDDNMMMZMM8MMN$MMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMIM8MMNNNNMO            .  
+     ..     .MZZZ778$Z8Z8D87D88DDDNNDNNDDN88D88MNNZDDNDD88D88NM8ONZZNZZN$Z=N$$N$7N7IDM:       ,:    
+     ..    :M78D7Z$NDDDMNII$DNDDNDMNMMMNNNDNMDNMDNNNNNND8N8DNDMMMMMMD$MZ7M8D8OOODO8NZOZM.     ::    
+        . D88OO8DDND:D8NDI8DNMMNNNNNMMMMMMMMDNMMDN8N8MNMMNOMMMDMMMMNIMIDMDMN$DDDDM$ON8O888  .    .  
+..       8OZOOZODDNNNONINNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMNMNNIO8NNNNNNNNDNNDD88OOOOO8D        .
+        $$$$$$$$$$ZZZ7ZZZZZZOZZZZOOOZZZZZZZZOOOOOOOOOOZZOOZZOZOZO+7$OOOZZOOOOOOOZOOZZZZZZZZZ.       
+       7$$$$$$$$$$$ZZZZZZZZZZZZOOZZZZZZZZZZZZZZZZZOOOZZZZZZZZZZOOZOOOOOOOZZZOOOOZZZZZZZZZZZZZ       
+       +$$$$$$$$ZZ$ZZZZZZZ$ZZZZZZZZZZZZOZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ$$$$$$$$$$$$$$$$$+       
+        .,,::~~+++===+++++++++?++?++++III+++++++++=====~~~~~:::::,,,,,,..........  ..               
+              .   .                                            .                 .                  
+                    .              .       .             .       .                                  
+.                                .           .          .          .                               
+He argues with you for several hours, after awhile he gets tired and picks you up.
+He then stores you on the cs server with all the messy php code from past years.
+You got Servered!
+ENDOFPROMPT
+Restart >0
+ENDOFPAGE
